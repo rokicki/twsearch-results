@@ -1,0 +1,15 @@
+# This is twsearch 0.2 (C) 2020 Tomas Rokicki.
+# ./twsearch -M 250000 -H -g samples/6x6x6obtm.tws
+Created new moves F2 F' f2 f' 3f2 3f' 3b2 3b' b2 b' B2 B' D2 D' d2 d' 3d2 3d' 3u2 3u' u2 u' U2 U' L2 L' l2 l' 3l2 3l' 3r2 3r' r2 r' R2 R'
+State size is about 3.77167 x 10^117 log2 390.581
+Requiring 541 bits 16 bytes per entry; 16 from identity.
+Found 19 canonical move states.
+Calculated canonical states in 0.0198259
+Using canonical sequences and arrays.
+Dist 0 cnt 1 tot 1 in 6.914138793945312e-05
+Dist 1 cnt 54 tot 55 in 2.384185791015625e-05
+Dist 2 cnt 2349 tot 2404 in 0.0008270740509033203
+Dist 3 cnt 99750 tot 102154 in 0.03952312469482422
+Dist 4 cnt 4198789 tot 4300943 in 2.031733989715576
+Dist 5 cnt 175221042 tot 179521985 in 97.24014186859131
+Dist 6 cnt 7251109551 tot 7430631536 in 4181.212427139282

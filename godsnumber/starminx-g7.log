@@ -1,0 +1,18 @@
+# This is twsearch 0.2 (C) 2020 Tomas Rokicki.
+# ./twsearch -M 250000 -g samples/starminx.tws
+Created new moves FUR' BFID' LUF' EBFD' LFA' EBRBF' LBLU' EDC' LIBL' ECR' UBLBR' DAC' BFBRBL' FCA' RUBR' IAD' FRC' BFBLI' ERBR' LAI'
+State size is about 2.4827 x 10^50 log2 167.408
+Requiring 214 bits 28 bytes per entry; 28 from identity.
+Found 5828 canonical move states.
+Calculated canonical states in 0.018887
+Using canonical sequences and arrays.
+Dist 0 cnt 1 tot 1 in 0.008558988571166992
+Dist 1 cnt 40 tot 41 in 3.194808959960938e-05
+Dist 2 cnt 880 tot 921 in 0.0004179477691650391
+Dist 3 cnt 14400 tot 15321 in 0.006657123565673828
+Dist 4 cnt 198080 tot 213401 in 0.1024198532104492
+Dist 5 cnt 2437424 tot 2650825 in 1.503436088562012
+Dist 6 cnt 27788320 tot 30439145 in 18.11961698532104
+Dist 7 cnt 299849864 tot 330289009 in 220.8415870666504
+Dist 8 cnt 3104977640 tot 3435266649 in 2369.37678694725
+Created 5927019064 elements in 2038.693264007568

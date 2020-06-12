@@ -1,0 +1,225 @@
+# This is twsearch 0.2 (C) 2020 Tomas Rokicki.
+# ./twsearch -M 240000 -g samples/Jing_pyraminx.tws
+Created new moves F' DRL' D' FLR' L' FRD' R' FDL'
+State size is 134369280 log2 27.0016
+Requiring 40 bits 8 bytes per entry; 8 from identity.
+Found 9 canonical move states.
+Calculated canonical states in 0.014612
+Using twobit arrays.
+Sizes [12 12 32] 81 360
+Making symcoord lookup table size 4608 x 16 in 0.02251100540161133
+Dist 0 cnt 1 tot 1 in 0.01682400703430176
+Dist 1 cnt 16 tot 17 in 0.02503800392150879
+Dist 2 cnt 208 tot 225 in 0.02036094665527344
+Dist 3 cnt 2280 tot 2505 in 0.02080893516540527
+Dist 4 cnt 19683 tot 22188 in 0.02396202087402344
+Dist 5 cnt 123840 tot 146028 in 0.04093003273010254
+Dist 6 cnt 693744 tot 839772 in 0.1246030330657959
+Dist 7 cnt 3665796 tot 4505568 in 0.395380973815918
+Dist 8 cnt 14871192 tot 19376760 in 0.9114549160003662
+Dist 9 cnt 22555572 tot 41932332 in 1.363571166992188
+Dist 10 cnt 2847840 tot 44780172 in 1.447325944900513
+Dist 11 cnt 9336 tot 44789508 in 0.9411399364471436
+Dist 12 cnt 252 tot 44789760 in 1.099720001220703
+Dist 13 cnt 0 tot 44789760 in 1.418405055999756
+Showing 20 antipodes.
+Scramble noname
+   CENTER
+   2 1 4 3
+   EDGE
+   1 2 3 4 5 6
+    1 1 1 1 1 1
+   CORNER
+   1 2 3 4
+    0 0 0 0
+End
+Scramble noname
+   CENTER
+   2 4 3 1
+   EDGE
+   2 4 5 1 6 3
+    1 1 0 1 0 1
+   CORNER
+   2 3 1 4
+    0 0 0 1
+End
+Scramble noname
+   CENTER
+   4 3 2 1
+   EDGE
+   1 2 3 4 5 6
+    1 1 1 1 1 1
+   CORNER
+   1 2 3 4
+    0 0 0 0
+End
+Scramble noname
+   CENTER
+   4 2 1 3
+   EDGE
+   2 4 5 1 6 3
+    1 1 0 1 0 1
+   CORNER
+   2 3 1 4
+    0 0 0 1
+End
+Scramble noname
+   CENTER
+   3 4 1 2
+   EDGE
+   1 2 3 4 5 6
+    1 1 1 1 1 1
+   CORNER
+   1 2 3 4
+    0 0 0 0
+End
+Scramble noname
+   CENTER
+   3 1 2 4
+   EDGE
+   2 4 5 1 6 3
+    1 1 0 1 0 1
+   CORNER
+   2 3 1 4
+    0 0 0 1
+End
+Scramble noname
+   CENTER
+   2 1 4 3
+   EDGE
+   1 2 3 4 5 6
+    0 0 0 0 0 0
+   CORNER
+   1 2 3 4
+    1 2 2 1
+End
+Scramble noname
+   CENTER
+   2 4 3 1
+   EDGE
+   2 4 5 1 6 3
+    0 0 1 0 1 0
+   CORNER
+   2 3 1 4
+    2 2 1 2
+End
+Scramble noname
+   CENTER
+   4 3 2 1
+   EDGE
+   1 2 3 4 5 6
+    0 0 0 0 0 0
+   CORNER
+   1 2 3 4
+    1 2 2 1
+End
+Scramble noname
+   CENTER
+   4 2 1 3
+   EDGE
+   2 4 5 1 6 3
+    0 0 1 0 1 0
+   CORNER
+   2 3 1 4
+    2 2 1 2
+End
+Scramble noname
+   CENTER
+   3 4 1 2
+   EDGE
+   1 2 3 4 5 6
+    0 0 0 0 0 0
+   CORNER
+   1 2 3 4
+    1 2 2 1
+End
+Scramble noname
+   CENTER
+   3 1 2 4
+   EDGE
+   2 4 5 1 6 3
+    0 0 1 0 1 0
+   CORNER
+   2 3 1 4
+    2 2 1 2
+End
+Scramble noname
+   CENTER
+   2 1 4 3
+   EDGE
+   1 2 3 4 5 6
+    0 0 0 0 0 0
+   CORNER
+   1 2 3 4
+    2 2 1 1
+End
+Scramble noname
+   CENTER
+   2 4 3 1
+   EDGE
+   2 4 5 1 6 3
+    0 0 1 0 1 0
+   CORNER
+   2 3 1 4
+    2 1 2 2
+End
+Scramble noname
+   CENTER
+   4 3 2 1
+   EDGE
+   1 2 3 4 5 6
+    0 0 0 0 0 0
+   CORNER
+   1 2 3 4
+    2 2 1 1
+End
+Scramble noname
+   CENTER
+   4 2 1 3
+   EDGE
+   2 4 5 1 6 3
+    0 0 1 0 1 0
+   CORNER
+   2 3 1 4
+    2 1 2 2
+End
+Scramble noname
+   CENTER
+   3 4 1 2
+   EDGE
+   1 2 3 4 5 6
+    0 0 0 0 0 0
+   CORNER
+   1 2 3 4
+    2 2 1 1
+End
+Scramble noname
+   CENTER
+   3 1 2 4
+   EDGE
+   2 4 5 1 6 3
+    0 0 1 0 1 0
+   CORNER
+   2 3 1 4
+    2 1 2 2
+End
+Scramble noname
+   CENTER
+   2 1 4 3
+   EDGE
+   1 2 3 4 5 6
+    0 0 0 0 0 0
+   CORNER
+   1 2 3 4
+    2 1 2 1
+End
+Scramble noname
+   CENTER
+   2 4 3 1
+   EDGE
+   2 4 5 1 6 3
+    0 0 1 0 1 0
+   CORNER
+   2 3 1 4
+    1 2 2 2
+End

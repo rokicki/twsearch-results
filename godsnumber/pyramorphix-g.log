@@ -1,0 +1,136 @@
+# This is twsearch 0.2 (C) 2020 Tomas Rokicki.
+# ./twsearch -M 240000 -g samples/pyramorphix.tws
+State size is 576 log2 9.16993
+Requiring 12 bits 4 bytes per entry; 4 from identity.
+Found 7 canonical move states.
+Calculated canonical states in 0.000618935
+Using twobit arrays.
+Sizes [24 24]
+Making symcoord lookup table size 576 x 6 in 0.0005261898040771484
+Dist 0 cnt 1 tot 1 in 7.867813110351562e-06
+Dist 1 cnt 6 tot 7 in 4.053115844726562e-06
+Dist 2 cnt 27 tot 34 in 4.053115844726562e-06
+Dist 3 cnt 42 tot 76 in 3.814697265625e-06
+Dist 4 cnt 20 tot 96 in 4.053115844726562e-06
+Dist 5 cnt 0 tot 96 in 4.053115844726562e-06
+Showing 20 antipodes.
+Scramble noname
+   CORNER
+   2 1 4 3
+   CENTER
+   1 2 3 4
+End
+Scramble noname
+   CORNER
+   1 2 3 4
+   CENTER
+   2 1 4 3
+End
+Scramble noname
+   CORNER
+   4 3 2 1
+   CENTER
+   1 2 3 4
+End
+Scramble noname
+   CORNER
+   3 4 1 2
+   CENTER
+   2 1 4 3
+End
+Scramble noname
+   CORNER
+   4 1 3 2
+   CENTER
+   2 3 1 4
+End
+Scramble noname
+   CORNER
+   2 3 1 4
+   CENTER
+   4 1 3 2
+End
+Scramble noname
+   CORNER
+   3 4 1 2
+   CENTER
+   1 2 3 4
+End
+Scramble noname
+   CORNER
+   4 3 2 1
+   CENTER
+   2 1 4 3
+End
+Scramble noname
+   CORNER
+   2 4 3 1
+   CENTER
+   3 1 2 4
+End
+Scramble noname
+   CORNER
+   3 1 2 4
+   CENTER
+   2 4 3 1
+End
+Scramble noname
+   CORNER
+   1 2 3 4
+   CENTER
+   3 4 1 2
+End
+Scramble noname
+   CORNER
+   2 1 4 3
+   CENTER
+   3 4 1 2
+End
+Scramble noname
+   CORNER
+   1 3 4 2
+   CENTER
+   4 2 1 3
+End
+Scramble noname
+   CORNER
+   1 4 2 3
+   CENTER
+   3 2 4 1
+End
+Scramble noname
+   CORNER
+   4 3 2 1
+   CENTER
+   3 4 1 2
+End
+Scramble noname
+   CORNER
+   1 2 3 4
+   CENTER
+   4 3 2 1
+End
+Scramble noname
+   CORNER
+   3 4 1 2
+   CENTER
+   4 3 2 1
+End
+Scramble noname
+   CORNER
+   2 1 4 3
+   CENTER
+   4 3 2 1
+End
+Scramble noname
+   CORNER
+   3 2 4 1
+   CENTER
+   1 4 2 3
+End
+Scramble noname
+   CORNER
+   4 2 1 3
+   CENTER
+   1 3 4 2
+End

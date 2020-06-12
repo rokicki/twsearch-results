@@ -1,0 +1,628 @@
+# This is twsearch 0.2 (C) 2020 Tomas Rokicki.
+# ./twsearch -M 240000 -g samples/mastermorphix.tws
+State size is 509607936 log2 28.9248
+Requiring 36 bits 8 bytes per entry; 8 from identity.
+Found 7 canonical move states.
+Calculated canonical states in 0.012753
+Using twobit arrays.
+Sizes [2 2 2 2 2 2 24 24] 24 24 24
+Making symcoord lookup table size 36864 x 6 in 0.05756402015686035
+Dist 0 cnt 1 tot 1 in 0.04826188087463379
+Dist 1 cnt 6 tot 7 in 0.04320907592773438
+Dist 2 cnt 27 tot 34 in 0.04360413551330566
+Dist 3 cnt 120 tot 154 in 0.04365682601928711
+Dist 4 cnt 519 tot 673 in 0.04379510879516602
+Dist 5 cnt 2088 tot 2761 in 0.04409193992614746
+Dist 6 cnt 8368 tot 11129 in 0.04501700401306152
+Dist 7 cnt 31470 tot 42599 in 0.04828500747680664
+Dist 8 cnt 110793 tot 153392 in 0.05422306060791016
+Dist 9 cnt 348504 tot 501896 in 0.07246589660644531
+Dist 10 cnt 937705 tot 1439601 in 0.106436014175415
+Dist 11 cnt 1721148 tot 3160749 in 0.1545889377593994
+Dist 12 cnt 1532612 tot 4693361 in 0.187514066696167
+Dist 13 cnt 541230 tot 5234591 in 0.1923069953918457
+Dist 14 cnt 62955 tot 5297546 in 0.1818499565124512
+Dist 15 cnt 9642 tot 5307188 in 0.1804780960083008
+Dist 16 cnt 1228 tot 5308416 in 0.1863870620727539
+Dist 17 cnt 0 tot 5308416 in 0.1840939521789551
+Showing 20 antipodes.
+Scramble noname
+   EDGE_p0
+   1
+    1
+   EDGE_p1
+   1
+    1
+   EDGE2_p0
+   1
+    1
+   EDGE2_p1
+   1
+    1
+   CENTER
+   1 2 3 4
+   CORNER
+   2 1 4 3
+   EDGE3_p0
+   1
+    0
+   EDGE3_p1
+   1
+    0
+   CENTER2
+   1 2 3 4
+   CENTER3
+   1 2 3 4
+   CENTER4
+   1 2 3 4
+End
+Scramble noname
+   EDGE_p0
+   1
+    1
+   EDGE_p1
+   1
+    1
+   EDGE2_p0
+   1
+    0
+   EDGE2_p1
+   1
+    0
+   CENTER
+   1 2 3 4
+   CORNER
+   2 1 4 3
+   EDGE3_p0
+   1
+    1
+   EDGE3_p1
+   1
+    1
+   CENTER2
+   1 2 3 4
+   CENTER3
+   1 2 3 4
+   CENTER4
+   1 2 3 4
+End
+Scramble noname
+   EDGE_p0
+   1
+    1
+   EDGE_p1
+   1
+    1
+   EDGE2_p0
+   1
+    0
+   EDGE2_p1
+   1
+    0
+   CENTER
+   1 2 3 4
+   CORNER
+   1 2 3 4
+   EDGE3_p0
+   1
+    0
+   EDGE3_p1
+   1
+    0
+   CENTER2
+   2 1 4 3
+   CENTER3
+   2 1 4 3
+   CENTER4
+   2 1 4 3
+End
+Scramble noname
+   EDGE_p0
+   1
+    0
+   EDGE_p1
+   1
+    0
+   EDGE2_p0
+   1
+    1
+   EDGE2_p1
+   1
+    1
+   CENTER
+   1 2 3 4
+   CORNER
+   2 1 4 3
+   EDGE3_p0
+   1
+    1
+   EDGE3_p1
+   1
+    1
+   CENTER2
+   1 2 3 4
+   CENTER3
+   1 2 3 4
+   CENTER4
+   1 2 3 4
+End
+Scramble noname
+   EDGE_p0
+   1
+    0
+   EDGE_p1
+   1
+    0
+   EDGE2_p0
+   1
+    1
+   EDGE2_p1
+   1
+    1
+   CENTER
+   1 2 3 4
+   CORNER
+   1 2 3 4
+   EDGE3_p0
+   1
+    0
+   EDGE3_p1
+   1
+    0
+   CENTER2
+   2 1 4 3
+   CENTER3
+   2 1 4 3
+   CENTER4
+   2 1 4 3
+End
+Scramble noname
+   EDGE_p0
+   1
+    1
+   EDGE_p1
+   1
+    1
+   EDGE2_p0
+   1
+    1
+   EDGE2_p1
+   1
+    1
+   CENTER
+   1 2 3 4
+   CORNER
+   2 1 4 3
+   EDGE3_p0
+   1
+    1
+   EDGE3_p1
+   1
+    1
+   CENTER2
+   1 2 3 4
+   CENTER3
+   1 2 3 4
+   CENTER4
+   1 2 3 4
+End
+Scramble noname
+   EDGE_p0
+   1
+    1
+   EDGE_p1
+   1
+    1
+   EDGE2_p0
+   1
+    1
+   EDGE2_p1
+   1
+    1
+   CENTER
+   1 2 3 4
+   CORNER
+   1 2 3 4
+   EDGE3_p0
+   1
+    0
+   EDGE3_p1
+   1
+    0
+   CENTER2
+   2 1 4 3
+   CENTER3
+   2 1 4 3
+   CENTER4
+   2 1 4 3
+End
+Scramble noname
+   EDGE_p0
+   1
+    1
+   EDGE_p1
+   1
+    1
+   EDGE2_p0
+   1
+    1
+   EDGE2_p1
+   1
+    1
+   CENTER
+   4 3 2 1
+   CORNER
+   2 1 4 3
+   EDGE3_p0
+   1
+    0
+   EDGE3_p1
+   1
+    0
+   CENTER2
+   1 2 3 4
+   CENTER3
+   1 2 3 4
+   CENTER4
+   1 2 3 4
+End
+Scramble noname
+   EDGE_p0
+   1
+    0
+   EDGE_p1
+   1
+    0
+   EDGE2_p0
+   1
+    0
+   EDGE2_p1
+   1
+    0
+   CENTER
+   4 3 2 1
+   CORNER
+   2 1 4 3
+   EDGE3_p0
+   1
+    1
+   EDGE3_p1
+   1
+    1
+   CENTER2
+   1 2 3 4
+   CENTER3
+   1 2 3 4
+   CENTER4
+   1 2 3 4
+End
+Scramble noname
+   EDGE_p0
+   1
+    0
+   EDGE_p1
+   1
+    0
+   EDGE2_p0
+   1
+    0
+   EDGE2_p1
+   1
+    0
+   CENTER
+   4 3 2 1
+   CORNER
+   1 2 3 4
+   EDGE3_p0
+   1
+    0
+   EDGE3_p1
+   1
+    0
+   CENTER2
+   2 1 4 3
+   CENTER3
+   2 1 4 3
+   CENTER4
+   2 1 4 3
+End
+Scramble noname
+   EDGE_p0
+   1
+    0
+   EDGE_p1
+   1
+    0
+   EDGE2_p0
+   1
+    1
+   EDGE2_p1
+   1
+    1
+   CENTER
+   4 3 2 1
+   CORNER
+   2 1 4 3
+   EDGE3_p0
+   1
+    1
+   EDGE3_p1
+   1
+    1
+   CENTER2
+   1 2 3 4
+   CENTER3
+   1 2 3 4
+   CENTER4
+   1 2 3 4
+End
+Scramble noname
+   EDGE_p0
+   1
+    0
+   EDGE_p1
+   1
+    0
+   EDGE2_p0
+   1
+    1
+   EDGE2_p1
+   1
+    1
+   CENTER
+   4 3 2 1
+   CORNER
+   1 2 3 4
+   EDGE3_p0
+   1
+    0
+   EDGE3_p1
+   1
+    0
+   CENTER2
+   2 1 4 3
+   CENTER3
+   2 1 4 3
+   CENTER4
+   2 1 4 3
+End
+Scramble noname
+   EDGE_p0
+   1
+    1
+   EDGE_p1
+   1
+    1
+   EDGE2_p0
+   1
+    1
+   EDGE2_p1
+   1
+    1
+   CENTER
+   4 3 2 1
+   CORNER
+   2 1 4 3
+   EDGE3_p0
+   1
+    1
+   EDGE3_p1
+   1
+    1
+   CENTER2
+   1 2 3 4
+   CENTER3
+   1 2 3 4
+   CENTER4
+   1 2 3 4
+End
+Scramble noname
+   EDGE_p0
+   1
+    1
+   EDGE_p1
+   1
+    1
+   EDGE2_p0
+   1
+    1
+   EDGE2_p1
+   1
+    1
+   CENTER
+   4 3 2 1
+   CORNER
+   1 2 3 4
+   EDGE3_p0
+   1
+    0
+   EDGE3_p1
+   1
+    0
+   CENTER2
+   2 1 4 3
+   CENTER3
+   2 1 4 3
+   CENTER4
+   2 1 4 3
+End
+Scramble noname
+   EDGE_p0
+   1
+    1
+   EDGE_p1
+   1
+    1
+   EDGE2_p0
+   1
+    1
+   EDGE2_p1
+   1
+    1
+   CENTER
+   3 4 1 2
+   CORNER
+   2 1 4 3
+   EDGE3_p0
+   1
+    0
+   EDGE3_p1
+   1
+    0
+   CENTER2
+   1 2 3 4
+   CENTER3
+   1 2 3 4
+   CENTER4
+   1 2 3 4
+End
+Scramble noname
+   EDGE_p0
+   1
+    0
+   EDGE_p1
+   1
+    0
+   EDGE2_p0
+   1
+    0
+   EDGE2_p1
+   1
+    0
+   CENTER
+   3 4 1 2
+   CORNER
+   2 1 4 3
+   EDGE3_p0
+   1
+    1
+   EDGE3_p1
+   1
+    1
+   CENTER2
+   1 2 3 4
+   CENTER3
+   1 2 3 4
+   CENTER4
+   1 2 3 4
+End
+Scramble noname
+   EDGE_p0
+   1
+    0
+   EDGE_p1
+   1
+    0
+   EDGE2_p0
+   1
+    0
+   EDGE2_p1
+   1
+    0
+   CENTER
+   3 4 1 2
+   CORNER
+   1 2 3 4
+   EDGE3_p0
+   1
+    0
+   EDGE3_p1
+   1
+    0
+   CENTER2
+   2 1 4 3
+   CENTER3
+   2 1 4 3
+   CENTER4
+   2 1 4 3
+End
+Scramble noname
+   EDGE_p0
+   1
+    1
+   EDGE_p1
+   1
+    1
+   EDGE2_p0
+   1
+    0
+   EDGE2_p1
+   1
+    0
+   CENTER
+   3 4 1 2
+   CORNER
+   2 1 4 3
+   EDGE3_p0
+   1
+    1
+   EDGE3_p1
+   1
+    1
+   CENTER2
+   1 2 3 4
+   CENTER3
+   1 2 3 4
+   CENTER4
+   1 2 3 4
+End
+Scramble noname
+   EDGE_p0
+   1
+    1
+   EDGE_p1
+   1
+    1
+   EDGE2_p0
+   1
+    0
+   EDGE2_p1
+   1
+    0
+   CENTER
+   3 4 1 2
+   CORNER
+   1 2 3 4
+   EDGE3_p0
+   1
+    0
+   EDGE3_p1
+   1
+    0
+   CENTER2
+   2 1 4 3
+   CENTER3
+   2 1 4 3
+   CENTER4
+   2 1 4 3
+End
+Scramble noname
+   EDGE_p0
+   1
+    1
+   EDGE_p1
+   1
+    1
+   EDGE2_p0
+   1
+    1
+   EDGE2_p1
+   1
+    1
+   CENTER
+   3 4 1 2
+   CORNER
+   2 1 4 3
+   EDGE3_p0
+   1
+    1
+   EDGE3_p1
+   1
+    1
+   CENTER2
+   1 2 3 4
+   CENTER3
+   1 2 3 4
+   CENTER4
+   1 2 3 4
+End

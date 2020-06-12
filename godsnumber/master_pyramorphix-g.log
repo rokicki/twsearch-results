@@ -1,0 +1,140 @@
+# This is twsearch 0.2 (C) 2020 Tomas Rokicki.
+# ./twsearch -M 240000 -g samples/master_pyramorphix.tws
+State size is 21233664 log2 24.3399
+Requiring 30 bits 4 bytes per entry; 4 from identity.
+Found 7 canonical move states.
+Calculated canonical states in 0.0107441
+Using twobit arrays.
+Sizes [2 2 2 2 2 2 24 24] 24 24
+Making symcoord lookup table size 36864 x 6 in 0.05610895156860352
+Dist 0 cnt 1 tot 1 in 0.002086162567138672
+Dist 1 cnt 6 tot 7 in 0.001721858978271484
+Dist 2 cnt 27 tot 34 in 0.001737117767333984
+Dist 3 cnt 120 tot 154 in 0.001699924468994141
+Dist 4 cnt 519 tot 673 in 0.001749992370605469
+Dist 5 cnt 2088 tot 2761 in 0.001889944076538086
+Dist 6 cnt 8368 tot 11129 in 0.002295017242431641
+Dist 7 cnt 30798 tot 41927 in 0.004023075103759766
+Dist 8 cnt 102953 tot 144880 in 0.009786844253540039
+Dist 9 cnt 270312 tot 415192 in 0.01832914352416992
+Dist 10 cnt 448817 tot 864009 in 0.02929401397705078
+Dist 11 cnt 354276 tot 1218285 in 0.03655290603637695
+Dist 12 cnt 102484 tot 1320769 in 0.03363800048828125
+Dist 13 cnt 5910 tot 1326679 in 0.0321500301361084
+Dist 14 cnt 379 tot 1327058 in 0.03411197662353516
+Dist 15 cnt 42 tot 1327100 in 0.03524208068847656
+Dist 16 cnt 4 tot 1327104 in 0.03453397750854492
+Dist 17 cnt 0 tot 1327104 in 0.03414607048034668
+Showing 4 antipodes.
+Scramble noname
+   EDGE_p0
+   1
+    0
+   EDGE_p1
+   1
+    0
+   EDGE2_p0
+   1
+    1
+   EDGE2_p1
+   1
+    1
+   CENTER
+   4 3 2 1
+   CORNER
+   4 3 2 1
+   EDGE3_p0
+   1
+    1
+   EDGE3_p1
+   1
+    1
+   CENTER2
+   4 3 2 1
+   CENTER3
+   1 2 3 4
+End
+Scramble noname
+   EDGE_p0
+   1
+    1
+   EDGE_p1
+   1
+    1
+   EDGE2_p0
+   1
+    1
+   EDGE2_p1
+   1
+    1
+   CENTER
+   1 2 3 4
+   CORNER
+   1 2 3 4
+   EDGE3_p0
+   1
+    1
+   EDGE3_p1
+   1
+    1
+   CENTER2
+   1 2 3 4
+   CENTER3
+   1 2 3 4
+End
+Scramble noname
+   EDGE_p0
+   1
+    1
+   EDGE_p1
+   1
+    1
+   EDGE2_p0
+   1
+    1
+   EDGE2_p1
+   1
+    1
+   CENTER
+   1 2 3 4
+   CORNER
+   2 1 4 3
+   EDGE3_p0
+   1
+    0
+   EDGE3_p1
+   1
+    0
+   CENTER2
+   2 1 4 3
+   CENTER3
+   2 1 4 3
+End
+Scramble noname
+   EDGE_p0
+   1
+    1
+   EDGE_p1
+   1
+    1
+   EDGE2_p0
+   1
+    0
+   EDGE2_p1
+   1
+    0
+   CENTER
+   3 4 1 2
+   CORNER
+   3 4 1 2
+   EDGE3_p0
+   1
+    1
+   EDGE3_p1
+   1
+    1
+   CENTER2
+   1 2 3 4
+   CENTER3
+   3 4 1 2
+End

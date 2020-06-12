@@ -1,0 +1,17 @@
+# This is twsearch 0.2 (C) 2020 Tomas Rokicki.
+# ./twsearch -M 250000 -H -g samples/professor_skewb.tws
+Created new moves DFR' 2DFR' 2ULB' ULB' DLF' 2DLF' 2UBR' UBR' DRB' 2DRB' 2UFL' UFL' DBL' 2DBL' 2URF' URF'
+State size is about 3.42918 x 10^66 log2 221.025
+Requiring 329 bits 16 bytes per entry; 16 from identity.
+Found 17 canonical move states.
+Calculated canonical states in 0.00194907
+Using canonical sequences and arrays.
+Dist 0 cnt 1 tot 1 in 0.0001139640808105469
+Dist 1 cnt 32 tot 33 in 5.006790161132812e-05
+Dist 2 cnt 864 tot 897 in 0.0008728504180908203
+Dist 3 cnt 23168 tot 24065 in 0.01343798637390137
+Dist 4 cnt 620992 tot 645057 in 0.2497031688690186
+Dist 5 cnt 16632016 tot 17277073 in 7.711989879608154
+Dist 6 cnt 445153304 tot 462430377 in 235.0377061367035
+Dist 7 cnt 11908391852 tot 12370822229 in 6538.585268974304
+Created 4013177770 elements in 902.7363240718842

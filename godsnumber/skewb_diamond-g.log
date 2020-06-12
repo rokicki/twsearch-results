@@ -1,0 +1,203 @@
+# This is twsearch 0.2 (C) 2020 Tomas Rokicki.
+# ./twsearch -M 240000 -g samples/skewb_diamond.tws
+Created new moves F' B' D' U' L' N' M' R'
+State size is 53084160 log2 25.6618
+Requiring 37 bits 8 bytes per entry; 8 from identity.
+Found 9 canonical move states.
+Calculated canonical states in 0.175502
+Using twobit arrays.
+Sizes [12 12 360] 1024
+Making symcoord lookup table size 51840 x 16 in 0.1620697975158691
+Dist 0 cnt 1 tot 1 in 0.005166053771972656
+Dist 1 cnt 16 tot 17 in 0.004670143127441406
+Dist 2 cnt 208 tot 225 in 0.004813909530639648
+Dist 3 cnt 2280 tot 2505 in 0.005134105682373047
+Dist 4 cnt 18795 tot 21300 in 0.006817817687988281
+Dist 5 cnt 104856 tot 126156 in 0.0120701789855957
+Dist 6 cnt 433752 tot 559908 in 0.02293682098388672
+Dist 7 cnt 897588 tot 1457496 in 0.04112815856933594
+Dist 8 cnt 198564 tot 1656060 in 0.05243301391601562
+Dist 9 cnt 2640 tot 1658700 in 0.02553296089172363
+Dist 10 cnt 180 tot 1658880 in 0.03173995018005371
+Dist 11 cnt 0 tot 1658880 in 0.05004501342773438
+Showing 20 antipodes.
+Scramble noname
+   C4RNER
+   1 2 3 4 5 6
+    0 0 0 0 0 0
+   CENTER
+   1 2 3 4
+   CENTER2
+   3 4 1 2
+End
+Scramble noname
+   C4RNER
+   2 4 5 1 6 3
+    0 0 0 0 0 0
+   CENTER
+   1 3 4 2
+   CENTER2
+   4 2 1 3
+End
+Scramble noname
+   C4RNER
+   1 2 3 4 5 6
+    0 0 0 0 0 0
+   CENTER
+   1 2 3 4
+   CENTER2
+   2 1 4 3
+End
+Scramble noname
+   C4RNER
+   2 4 5 1 6 3
+    0 0 0 0 0 0
+   CENTER
+   1 3 4 2
+   CENTER2
+   1 3 4 2
+End
+Scramble noname
+   C4RNER
+   1 2 3 4 5 6
+    0 0 0 0 0 0
+   CENTER
+   1 2 3 4
+   CENTER2
+   4 3 2 1
+End
+Scramble noname
+   C4RNER
+   2 4 5 1 6 3
+    0 0 0 0 0 0
+   CENTER
+   1 3 4 2
+   CENTER2
+   3 1 2 4
+End
+Scramble noname
+   C4RNER
+   1 2 3 4 5 6
+    0 0 0 0 0 0
+   CENTER
+   2 1 4 3
+   CENTER2
+   1 2 3 4
+End
+Scramble noname
+   C4RNER
+   2 4 5 1 6 3
+    0 0 0 0 0 0
+   CENTER
+   2 4 3 1
+   CENTER2
+   2 4 3 1
+End
+Scramble noname
+   C4RNER
+   1 2 3 4 5 6
+    0 0 0 0 0 0
+   CENTER
+   4 3 2 1
+   CENTER2
+   1 2 3 4
+End
+Scramble noname
+   C4RNER
+   2 4 5 1 6 3
+    0 0 0 0 0 0
+   CENTER
+   4 2 1 3
+   CENTER2
+   2 4 3 1
+End
+Scramble noname
+   C4RNER
+   1 2 3 4 5 6
+    0 0 0 0 0 0
+   CENTER
+   3 4 1 2
+   CENTER2
+   1 2 3 4
+End
+Scramble noname
+   C4RNER
+   2 4 5 1 6 3
+    0 0 0 0 0 0
+   CENTER
+   3 1 2 4
+   CENTER2
+   2 4 3 1
+End
+Scramble noname
+   C4RNER
+   4 1 6 2 3 5
+    0 0 0 0 0 0
+   CENTER
+   1 4 2 3
+   CENTER2
+   3 2 4 1
+End
+Scramble noname
+   C4RNER
+   4 1 6 2 3 5
+    0 0 0 0 0 0
+   CENTER
+   1 4 2 3
+   CENTER2
+   2 3 1 4
+End
+Scramble noname
+   C4RNER
+   4 1 6 2 3 5
+    0 0 0 0 0 0
+   CENTER
+   1 4 2 3
+   CENTER2
+   1 4 2 3
+End
+Scramble noname
+   C4RNER
+   4 1 6 2 3 5
+    0 0 0 0 0 0
+   CENTER
+   2 3 1 4
+   CENTER2
+   4 1 3 2
+End
+Scramble noname
+   C4RNER
+   4 1 6 2 3 5
+    0 0 0 0 0 0
+   CENTER
+   4 1 3 2
+   CENTER2
+   4 1 3 2
+End
+Scramble noname
+   C4RNER
+   4 1 6 2 3 5
+    0 0 0 0 0 0
+   CENTER
+   3 2 4 1
+   CENTER2
+   4 1 3 2
+End
+Scramble noname
+   C4RNER
+   3 1 2 6 4 5
+    1 2 1 3 3 2
+   CENTER
+   4 1 3 2
+   CENTER2
+   3 2 4 1
+End
+Scramble noname
+   C4RNER
+   3 1 2 6 4 5
+    1 2 1 3 3 2
+   CENTER
+   1 4 2 3
+   CENTER2
+   2 3 1 4
+End

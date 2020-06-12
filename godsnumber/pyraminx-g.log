@@ -1,0 +1,249 @@
+# This is twsearch 0.2 (C) 2020 Tomas Rokicki.
+# ./twsearch -M 240000 -g samples/pyraminx.tws
+Created new moves FRD' L' FDL' R' DRL' F' FLR' D'
+State size is 3627970560 log2 31.7565
+Requiring 46 bits 8 bytes per entry; 8 from identity.
+Found 24 canonical move states.
+Calculated canonical states in 0.000653982
+Using twobit arrays.
+Sizes [12 12 27] 32 81 360
+Making symcoord lookup table size 3888 x 16 in 0.01563596725463867
+Dist 0 cnt 1 tot 1 in 0.3469259738922119
+Dist 1 cnt 16 tot 17 in 0.6004569530487061
+Dist 2 cnt 136 tot 153 in 0.6005699634552002
+Dist 3 cnt 896 tot 1049 in 0.6149530410766602
+Dist 4 cnt 5456 tot 6505 in 0.6245231628417969
+Dist 5 cnt 32528 tot 39033 in 0.6199028491973877
+Dist 6 cnt 190260 tot 229293 in 0.661870002746582
+Dist 7 cnt 1070699 tot 1299992 in 0.7966670989990234
+Dist 8 cnt 5421594 tot 6721586 in 1.382895946502686
+Dist 9 cnt 21136359 tot 27857945 in 3.394082069396973
+Dist 10 cnt 55716688 tot 83574633 in 7.826434850692749
+Dist 11 cnt 91554722 tot 175129355 in 12.74202704429626
+Dist 12 cnt 85678373 tot 260807728 in 16.6488561630249
+Dist 13 cnt 37687176 tot 298494904 in 16.85008382797241
+Dist 14 cnt 3822520 tot 302317424 in 15.76265096664429
+Dist 15 cnt 13120 tot 302330544 in 15.75372719764709
+Dist 16 cnt 336 tot 302330880 in 15.855801820755
+Dist 17 cnt 0 tot 302330880 in 15.34892296791077
+Showing 20 antipodes.
+Scramble noname
+   CORNER
+   3 4 1 2
+    0 2 0 1
+   CORNER2
+   3 4 1 2
+    1 0 1 0
+   EDGE
+   6 3 2 4 5 1
+    1 1 1 1 1 1
+End
+Scramble noname
+   CORNER
+   3 4 1 2
+    0 2 0 1
+   CORNER2
+   3 4 1 2
+    1 0 2 0
+   EDGE
+   6 3 2 4 5 1
+    1 1 1 1 1 1
+End
+Scramble noname
+   CORNER
+   3 4 1 2
+    0 0 2 1
+   CORNER2
+   3 4 1 2
+    1 1 0 0
+   EDGE
+   6 3 2 4 5 1
+    1 1 1 1 1 1
+End
+Scramble noname
+   CORNER
+   3 4 1 2
+    0 0 2 1
+   CORNER2
+   3 4 1 2
+    1 2 0 0
+   EDGE
+   6 3 2 4 5 1
+    1 1 1 1 1 1
+End
+Scramble noname
+   CORNER
+   3 4 1 2
+    1 2 2 1
+   CORNER2
+   3 4 1 2
+    2 0 0 0
+   EDGE
+   6 3 2 4 5 1
+    1 1 1 1 1 1
+End
+Scramble noname
+   CORNER
+   3 4 1 2
+    1 2 2 1
+   CORNER2
+   3 4 1 2
+    0 0 0 0
+   EDGE
+   6 3 2 4 5 1
+    1 1 1 1 1 1
+End
+Scramble noname
+   CORNER
+   3 4 1 2
+    2 1 1 2
+   CORNER2
+   3 4 1 2
+    0 0 0 0
+   EDGE
+   6 3 2 4 5 1
+    0 0 0 0 0 0
+End
+Scramble noname
+   CORNER
+   3 4 1 2
+    2 1 1 2
+   CORNER2
+   3 4 1 2
+    1 0 0 0
+   EDGE
+   6 3 2 4 5 1
+    0 0 0 0 0 0
+End
+Scramble noname
+   CORNER
+   3 4 1 2
+    0 2 0 1
+   CORNER2
+   3 4 1 2
+    2 0 1 0
+   EDGE
+   6 3 2 4 5 1
+    1 1 1 1 1 1
+End
+Scramble noname
+   CORNER
+   3 4 1 2
+    0 2 0 1
+   CORNER2
+   3 4 1 2
+    2 0 2 0
+   EDGE
+   6 3 2 4 5 1
+    1 1 1 1 1 1
+End
+Scramble noname
+   CORNER
+   3 4 1 2
+    0 0 2 1
+   CORNER2
+   3 4 1 2
+    2 1 0 0
+   EDGE
+   6 3 2 4 5 1
+    1 1 1 1 1 1
+End
+Scramble noname
+   CORNER
+   3 4 1 2
+    0 0 2 1
+   CORNER2
+   3 4 1 2
+    2 2 0 0
+   EDGE
+   6 3 2 4 5 1
+    1 1 1 1 1 1
+End
+Scramble noname
+   CORNER
+   3 4 1 2
+    2 1 1 2
+   CORNER2
+   3 4 1 2
+    0 2 0 0
+   EDGE
+   6 3 2 4 5 1
+    0 0 0 0 0 0
+End
+Scramble noname
+   CORNER
+   3 4 1 2
+    1 0 2 0
+   CORNER2
+   3 4 1 2
+    0 1 0 1
+   EDGE
+   6 3 2 4 5 1
+    1 1 1 1 1 1
+End
+Scramble noname
+   CORNER
+   3 4 1 2
+    1 0 2 0
+   CORNER2
+   3 4 1 2
+    0 1 0 2
+   EDGE
+   6 3 2 4 5 1
+    1 1 1 1 1 1
+End
+Scramble noname
+   CORNER
+   3 4 1 2
+    2 1 1 2
+   CORNER2
+   3 4 1 2
+    1 2 0 0
+   EDGE
+   6 3 2 4 5 1
+    0 0 0 0 0 0
+End
+Scramble noname
+   CORNER
+   3 4 1 2
+    0 2 0 1
+   CORNER2
+   3 4 1 2
+    1 1 1 0
+   EDGE
+   6 3 2 4 5 1
+    1 1 1 1 1 1
+End
+Scramble noname
+   CORNER
+   3 4 1 2
+    0 2 0 1
+   CORNER2
+   3 4 1 2
+    1 1 2 0
+   EDGE
+   6 3 2 4 5 1
+    1 1 1 1 1 1
+End
+Scramble noname
+   CORNER
+   3 4 1 2
+    1 2 2 1
+   CORNER2
+   3 4 1 2
+    2 1 0 0
+   EDGE
+   6 3 2 4 5 1
+    1 1 1 1 1 1
+End
+Scramble noname
+   CORNER
+   3 4 1 2
+    1 2 2 1
+   CORNER2
+   3 4 1 2
+    0 1 0 0
+   EDGE
+   6 3 2 4 5 1
+    1 1 1 1 1 1
+End

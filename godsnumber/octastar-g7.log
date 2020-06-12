@@ -1,0 +1,20 @@
+# This is twsearch 0.2 (C) 2020 Tomas Rokicki.
+# ./twsearch --newcanon 6 -M 120000 -g samples/octastar.tws
+State size is about 3.10224 x 10^23 log2 78.0377
+Requiring 115 bits 16 bytes per entry; 16 from identity.
+Canonical states: 403128
+Calculated canonical states in 2.36037
+Using canonical sequences and arrays.
+Dist 0 cnt 1 tot 1 in 1.381224870681763
+Dist 1 cnt 12 tot 13 in 3.504753112792969e-05
+Dist 2 cnt 126 tot 139 in 4.506111145019531e-05
+Dist 3 cnt 1128 tot 1267 in 0.0002779960632324219
+Dist 4 cnt 8747 tot 10014 in 0.002115011215209961
+Dist 5 cnt 58776 tot 68790 in 0.01604008674621582
+Dist 6 cnt 334338 tot 403128 in 0.1019589900970459
+Dist 7 cnt 1688772 tot 2091900 in 0.5740180015563965
+Dist 8 cnt 8111316 tot 10203216 in 3.193188905715942
+Dist 9 cnt 38320560 tot 48523776 in 17.90847110748291
+Dist 10 cnt 180092736 tot 228616512 in 99.93543481826782
+Dist 11 cnt 845137728 tot 1073754240 in 555.268345117569
+Dist 12 cnt 3964732896 tot 5038487136 in 2623.535969018936

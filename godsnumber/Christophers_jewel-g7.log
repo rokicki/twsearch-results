@@ -1,0 +1,20 @@
+# This is twsearch 0.2 (C) 2020 Tomas Rokicki.
+# ./twsearch -M 250000 -F -g samples/Christophers_jewel.tws
+Created new moves FRND2 FRND' BULM2 BULM' FDML2 FDML' BNRU2 BNRU' BMDN2 BMDN' FLUR2 FLUR'
+State size is 4018156653772800 log2 51.8355
+Requiring 67 bits 12 bytes per entry; 12 from identity.
+Found 7 canonical move states.
+Calculated canonical states in 0.0146282
+Using sorting bfs and arrays.
+Dist 0 cnt 1 tot 1 in 3.480911254882812e-05
+Dist 1 cnt 18 tot 19 in 1.001358032226562e-05
+Dist 2 cnt 243 tot 262 in 0.0001010894775390625
+Dist 3 cnt 3240 tot 3502 in 0.001046895980834961
+Dist 4 cnt 42807 tot 46309 in 0.01541614532470703
+Dist 5 cnt 558680 tot 604989 in 0.2282800674438477
+Dist 6 cnt 7215925 tot 7820914 in 3.410506963729858
+Dist 7 cnt 92255254 tot 100076168 in 48.53987789154053
+Dist 8 cnt 1166127030 tot 1266203198 in 684.5364730358124
+Created 20586951048 elements in 2248.404022932053
+to 14281280504 in 6179.822224140167
+Dist 9 cnt 14527739382 tot 15793942580 in 3051.131556034088

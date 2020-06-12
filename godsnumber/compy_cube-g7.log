@@ -1,0 +1,22 @@
+# This is twsearch 0.2 (C) 2020 Tomas Rokicki.
+# ./twsearch -M 250000 -F -g samples/compy_cube.tws
+Created new moves DFR' ULB' DLF' UBR' DRB' UFL' DBL' URF'
+State size is 1571364748800 log2 40.5152
+Requiring 60 bits 8 bytes per entry; 8 from identity.
+Found 35 canonical move states.
+Calculated canonical states in 0.000528097
+Using sorting bfs and arrays.
+Dist 0 cnt 1 tot 1 in 0.0001339912414550781
+Dist 1 cnt 16 tot 17 in 2.408027648925781e-05
+Dist 2 cnt 160 tot 177 in 0.0001399517059326172
+Dist 3 cnt 1408 tot 1585 in 0.001348018646240234
+Dist 4 cnt 11808 tot 13393 in 0.00958704948425293
+Dist 5 cnt 95712 tot 109105 in 0.0393979549407959
+Dist 6 cnt 754732 tot 863837 in 0.6854298114776611
+Dist 7 cnt 5793810 tot 6657647 in 2.931978225708008
+Dist 8 cnt 43183952 tot 49841599 in 23.95894193649292
+Dist 9 cnt 310137312 tot 359978911 in 190.3817989826202
+Dist 10 cnt 2115556475 tot 2475535386 in 1444.962321996689
+Created 30342306212 elements in 3153.705587863922
+to 12437429916 in 8186.262341022491
+Dist 11 cnt 13329858542 tot 15805393928 in 3836.668174028397

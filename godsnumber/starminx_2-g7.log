@@ -1,0 +1,15 @@
+# This is twsearch 0.2 (C) 2020 Tomas Rokicki.
+# ./twsearch -M 250000 -H -g samples/starminx_2.tws
+Created new moves U2 U2' U' D2 D2' D' F2 F2' F' BF2 BF2' BF' L2 L2' L' E2 E2' E' BL2 BL2' BL' C2 C2' C' BR2 BR2' BR' A2 A2' A' R2 R2' R' I2 I2' I'
+State size is about 1.5915 x 10^106 log2 352.795
+Requiring 454 bits 16 bytes per entry; 16 from identity.
+Found 13 canonical move states.
+Calculated canonical states in 0.00198007
+Using canonical sequences and arrays.
+Dist 0 cnt 1 tot 1 in 0.0001108646392822266
+Dist 1 cnt 48 tot 49 in 5.91278076171875e-05
+Dist 2 cnt 2016 tot 2065 in 0.001847982406616211
+Dist 3 cnt 84480 tot 86545 in 0.03201508522033691
+Dist 4 cnt 3540480 tot 3627025 in 1.422515869140625
+Dist 5 cnt 148374640 tot 152001665 in 70.44918298721313
+Dist 6 cnt 6218029620 tot 6370031285 in 2872.919090986252

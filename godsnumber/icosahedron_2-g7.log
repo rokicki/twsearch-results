@@ -1,0 +1,15 @@
+# This is twsearch 0.2 (C) 2020 Tomas Rokicki.
+# ./twsearch -M 250000 -H -g samples/icosahedron_2.tws
+Created new moves ERFUG2 ERFUG2' ERFUG' ONDBK2 ONDBK2' ONDBK' EIHCR2 EIHCR2' EIHCR' OKMQP2 OKMQP2' OKMQP' LFRCA2 LFRCA2' LFRCA' SJMKB2 SJMKB2' SJMKB' LANOP2 LANOP2' LANOP' SIEGJ2 SIEGJ2' SIEGJ' LPQUF2 LPQUF2' LPQUF' SBDHI2 SBDHI2' SBDHI' UQMJG2 UQMJG2' UQMJG' DNACH2 DNACH2' DNACH'
+State size is about 9.47538 x 10^123 log2 411.841
+Requiring 549 bits 16 bytes per entry; 16 from identity.
+Found 13 canonical move states.
+Calculated canonical states in 0.00198507
+Using canonical sequences and arrays.
+Dist 0 cnt 1 tot 1 in 0.0001120567321777344
+Dist 1 cnt 48 tot 49 in 5.698204040527344e-05
+Dist 2 cnt 2016 tot 2065 in 0.001904964447021484
+Dist 3 cnt 84480 tot 86545 in 0.03298711776733398
+Dist 4 cnt 3540480 tot 3627025 in 1.790230989456177
+Dist 5 cnt 148374640 tot 152001665 in 71.24916195869446
+Dist 6 cnt 6218029500 tot 6370031165 in 2908.625519037247

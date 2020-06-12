@@ -1,0 +1,17 @@
+# This is twsearch 0.2 (C) 2020 Tomas Rokicki.
+# ./twsearch -M 250000 -H -g samples/Eitans_star.tws
+Created new moves R' K' L' S' G' N' U' D' H' Q' C' M' I' P' O' E' F' B' A' J'
+State size is about 1.347 x 10^182 log2 605.021
+Requiring 821 bits 16 bytes per entry; 16 from identity.
+Found 231 canonical move states.
+Calculated canonical states in 0.00361991
+Using canonical sequences and arrays.
+Dist 0 cnt 1 tot 1 in 0.001275062561035156
+Dist 1 cnt 40 tot 41 in 5.793571472167969e-05
+Dist 2 cnt 1120 tot 1161 in 0.001161098480224609
+Dist 3 cnt 28160 tot 29321 in 0.01258087158203125
+Dist 4 cnt 680160 tot 709481 in 0.282973051071167
+Dist 5 cnt 16155360 tot 16864841 in 7.658246040344238
+Dist 6 cnt 380908060 tot 397772901 in 204.5760409832001
+Dist 7 cnt 8950826410 tot 9348599311 in 4868.841500043869
+Created 7035400688 elements in 1593.103133916855

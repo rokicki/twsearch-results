@@ -1,0 +1,183 @@
+# This is twsearch 0.2 (C) 2020 Tomas Rokicki.
+# ./twsearch -F -M 250000 -g samples/3p1.tws
+Created new moves F2 F' B2 B' D2 D' U2 U' L2 L' R2 R'
+State size is 2247600321331200 log2 31.046
+Requiring 36 bits 8 bytes per entry; 12 from identity.
+Found 7 canonical move states.
+Calculated canonical states in 0.00814795
+Using sorting bfs and arrays.
+Dist 0 cnt 1 tot 1 in 4.410743713378906e-05
+Dist 1 cnt 4 tot 5 in 1.597404479980469e-05
+Dist 2 cnt 50 tot 55 in 1.692771911621094e-05
+Dist 3 cnt 592 tot 647 in 0.0002231597900390625
+Dist 4 cnt 7156 tot 7803 in 0.002030849456787109
+Dist 5 cnt 87236 tot 95039 in 0.02640914916992188
+Dist 6 cnt 1043817 tot 1138856 in 0.4015209674835205
+Dist 7 cnt 12070278 tot 13209134 in 4.803186893463135
+Dist 8 cnt 124946368 tot 138155502 in 57.28654599189758
+Dist 9 cnt 821605960 tot 959761462 in 633.306725025177
+Dist 10 cnt 1199128738 tot 2158890200 in 4980.797631025314
+Dist 11 cnt 58202444 tot 2217092644 in 7664.291166067123
+Dist 12 cnt 476 tot 2217093120 in 300.7190120220184
+Dist 13 cnt 0 tot 2217093120 in 0.07400083541870117
+Showing 20 antipodes.
+Scramble noname
+   EDGE
+   2 1 2 2 2 1 2 2 2 1 1 2
+    1 0 1 0 1 0 1 0 0 0 0 0
+   CORNER
+   1 1 1 1 1 1 1 1
+    0 0 0 0 0 0 0 0
+End
+Scramble noname
+   EDGE
+   2 2 2 1 2 2 2 1 1 2 2 1
+    1 0 1 0 1 0 1 0 0 0 0 0
+   CORNER
+   1 1 1 1 1 1 1 1
+    0 0 0 0 0 0 0 0
+End
+Scramble noname
+   EDGE
+   2 1 2 1 2 1 2 1 2 2 2 2
+    0 1 0 1 0 1 0 1 0 0 0 0
+   CORNER
+   1 1 1 1 1 1 1 1
+    0 0 0 0 0 2 1 0
+End
+Scramble noname
+   EDGE
+   2 2 2 1 2 2 2 1 2 1 1 2
+    1 0 1 0 1 0 1 0 1 0 0 1
+   CORNER
+   1 1 1 1 1 1 1 1
+    0 0 0 0 0 2 1 0
+End
+Scramble noname
+   EDGE
+   2 2 2 1 2 2 2 1 2 1 1 2
+    0 1 0 0 1 1 1 0 1 0 0 1
+   CORNER
+   1 1 1 1 1 1 1 1
+    0 0 0 0 0 2 1 0
+End
+Scramble noname
+   EDGE
+   2 1 2 2 2 1 2 2 2 1 1 2
+    0 0 0 1 0 0 0 1 1 0 0 1
+   CORNER
+   1 1 1 1 1 1 1 1
+    0 0 0 0 0 0 0 0
+End
+Scramble noname
+   EDGE
+   2 1 2 2 2 1 2 2 2 1 1 2
+    0 0 0 1 0 0 0 1 1 0 0 1
+   CORNER
+   1 1 1 1 1 1 1 1
+    0 0 0 0 0 2 1 0
+End
+Scramble noname
+   EDGE
+   2 2 2 1 2 2 2 1 1 2 2 1
+    0 0 0 1 0 0 0 1 1 0 0 1
+   CORNER
+   1 1 1 1 1 1 1 1
+    0 0 0 0 0 0 0 0
+End
+Scramble noname
+   EDGE
+   2 1 2 2 2 1 2 2 2 1 1 2
+    1 0 0 1 1 0 0 1 1 0 0 1
+   CORNER
+   1 1 1 1 1 1 1 1
+    0 0 0 0 0 0 0 0
+End
+Scramble noname
+   EDGE
+   2 1 2 2 2 1 2 2 2 1 1 2
+    0 0 1 1 0 0 1 1 1 0 0 1
+   CORNER
+   1 1 1 1 1 1 1 1
+    0 0 0 0 0 0 0 0
+End
+Scramble noname
+   EDGE
+   2 1 2 2 2 2 2 2 1 2 1 1
+    0 0 0 1 0 1 0 1 1 1 0 1
+   CORNER
+   1 1 1 1 1 1 1 1
+    0 0 0 0 0 0 0 0
+End
+Scramble noname
+   EDGE
+   2 1 2 1 2 2 2 1 2 2 1 2
+    0 0 0 1 0 1 0 1 1 1 0 1
+   CORNER
+   1 1 1 1 1 1 1 1
+    0 0 0 0 0 0 0 0
+End
+Scramble noname
+   EDGE
+   2 2 2 2 2 1 2 1 1 2 1 2
+    1 1 1 1 1 0 1 1 1 1 0 1
+   CORNER
+   1 1 1 1 1 1 1 1
+    0 0 0 0 0 0 0 0
+End
+Scramble noname
+   EDGE
+   2 2 2 1 2 1 2 2 2 2 1 1
+    1 1 1 1 1 0 1 1 1 1 0 1
+   CORNER
+   1 1 1 1 1 1 1 1
+    0 0 0 0 0 0 0 0
+End
+Scramble noname
+   EDGE
+   2 2 2 2 2 1 2 2 1 1 2 1
+    0 1 0 1 0 0 0 1 1 0 1 1
+   CORNER
+   1 1 1 1 1 1 1 1
+    0 0 0 0 0 0 0 0
+End
+Scramble noname
+   EDGE
+   2 2 2 1 2 1 2 1 2 1 2 2
+    0 1 0 1 0 0 0 1 1 0 1 1
+   CORNER
+   1 1 1 1 1 1 1 1
+    0 0 0 0 0 0 0 0
+End
+Scramble noname
+   EDGE
+   2 1 2 2 2 2 2 1 1 1 2 2
+    1 0 1 1 1 1 1 1 1 0 1 1
+   CORNER
+   1 1 1 1 1 1 1 1
+    0 0 0 0 0 0 0 0
+End
+Scramble noname
+   EDGE
+   2 1 2 1 2 2 2 2 2 1 2 1
+    1 0 1 1 1 1 1 1 1 0 1 1
+   CORNER
+   1 1 1 1 1 1 1 1
+    0 0 0 0 0 0 0 0
+End
+Scramble noname
+   EDGE
+   2 1 2 2 2 1 2 2 2 1 1 2
+    0 1 0 0 0 1 0 0 0 1 1 0
+   CORNER
+   1 1 1 1 1 1 1 1
+    0 0 0 0 0 0 0 0
+End
+Scramble noname
+   EDGE
+   2 2 2 1 2 2 2 1 1 2 2 1
+    0 1 0 0 0 1 0 0 0 1 1 0
+   CORNER
+   1 1 1 1 1 1 1 1
+    0 0 0 0 0 0 0 0
+End
