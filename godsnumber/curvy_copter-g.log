@@ -1,0 +1,21 @@
+# This is twsearch 0.2 (C) 2020 Tomas Rokicki.
+# ./twsearch -M 100000 -g curvycopter2.tws
+State size is about 9.70642 x 10^22 log2 76.3614
+Requiring 107 bits 16 bytes per entry; 16 from identity.
+Found 108 canonical move states.
+Calculated canonical states in 0.000608921
+Using canonical sequences and arrays.
+Dist 0 cnt 1 tot 1 in 0.0001840591430664062
+Dist 1 cnt 12 tot 13 in 3.099441528320312e-05
+Dist 2 cnt 90 tot 103 in 7.486343383789062e-05
+Dist 3 cnt 572 tot 675 in 0.0003821849822998047
+Dist 4 cnt 3405 tot 4080 in 0.0021209716796875
+Dist 5 cnt 19704 tot 23784 in 0.01102805137634277
+Dist 6 cnt 112172 tot 135956 in 0.06177091598510742
+Dist 7 cnt 631128 tot 767084 in 0.3648529052734375
+Dist 8 cnt 3517264 tot 4284348 in 2.741346120834351
+Dist 9 cnt 19446520 tot 23730868 in 16.7963719367981
+Dist 10 cnt 106845240 tot 130576108 in 99.62996006011963
+Dist 11 cnt 584056780 tot 714632888 in 601.0911250114441
+Dist 12 cnt 3178549176 tot 3893182064 in 3867.555003881454
+Created 2660417935 elements in 1283.612989187241
