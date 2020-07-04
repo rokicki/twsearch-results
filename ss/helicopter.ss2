@@ -1,0 +1,17 @@
+# This is twsearch 0.2 (C) 2020 Tomas Rokicki.
+# ./twsearch --schreiersims samples/helicopter.tws
+Adding move DF extends size to 2
+Adding move UB extends size to 4
+Adding move FL extends size to 24
+Adding move BR extends size to 144
+Adding move DB extends size to 10368
+Adding move UF extends size to 746496
+Adding move DL extends size to 25082265600
+Adding move UR extends size to 75246796800
+Adding move BL extends size to 9873884676096000
+Adding move FR extends size to 29621654028288000
+Adding move UL extends size to 11848661611315200000
+State size is about 2.36973 x 10^19 log2 64.3614
+Requiring 95 bits 12 bytes per entry; 12 from identity.
+Found 108 canonical move states.
+Calculated canonical states in 0.00243902

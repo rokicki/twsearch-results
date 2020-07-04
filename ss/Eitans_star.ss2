@@ -1,0 +1,21 @@
+# This is twsearch 0.2 (C) 2020 Tomas Rokicki.
+# ./twsearch --schreiersims samples/Eitans_star.tws
+Created new moves R' K' L' S' G' N' U' D' H' Q' C' M' I' P' O' E' F' B' A' J'
+Adding move R extends size to 3
+Adding move K extends size to 9
+Adding move L extends size to 1620
+Adding move S extends size to 291600
+Adding move G extends size to 4849891200
+Adding move N extends size to 174596083200
+Adding move U extends size to 3.344371560502894149e+108
+Adding move D extends size to 5.6433799488027701571e+141
+Adding move H extends size to 1.8459270077335909062e+147
+Adding move Q extends size to 7.3364522995363836982e+152
+Adding move C extends size to 1.8119207828174312206e+179
+Adding move M extends size to 1.6179437914921283036e+185
+Adding move I extends size to 1.7989593428842676179e+191
+Adding move P extends size to 2.4624155485399855155e+197
+State size is about 1.347 x 10^182 log2 605.021
+Requiring 821 bits 104 bytes per entry; 112 from identity.
+Found 231 canonical move states.
+Calculated canonical states in 0.652284

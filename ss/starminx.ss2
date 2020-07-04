@@ -1,0 +1,27 @@
+# This is twsearch 0.2 (C) 2020 Tomas Rokicki.
+# ./twsearch --schreiersims samples/starminx.tws
+Created new moves FUR' BFID' LUF' EBFD' LFA' EBRBF' LBLU' EDC' LIBL' ECR' UBLBR' DAC' BFBRBL' FCA' RUBR' IAD' FRC' BFBLI' ERBR' LAI'
+Adding move FUR extends size to 3
+Adding move BFID extends size to 9
+Adding move LUF extends size to 1620
+Adding move EBFD extends size to 291600
+Adding move LFA extends size to 36741600
+Adding move EBRBF extends size to 4629441600
+Adding move LBLU extends size to 999959385600
+Adding move EDC extends size to 215991227289600
+Adding move LIBL extends size to 71277105005568000
+Adding move ECR extends size to 23521444651837440000
+Adding move UBLBR extends size to 1.100803609705992192e+22
+Adding move DAC extends size to 5.1517608934240434583e+24
+Adding move BFBRBL extends size to 8.6801875043996692355e+33
+Adding move FCA extends size to 7.2913575036957221583e+35
+Adding move RUBR extends size to 1.7028152224363170906e+46
+Adding move IAD extends size to 3.0650674003853707633e+48
+Adding move FRC extends size to 9.1952022011561122888e+48
+Adding move BFBLI extends size to 2.7585606603468336869e+49
+Adding move ERBR extends size to 8.2756819810405010596e+49
+Adding move LAI extends size to 2.4827045943121503183e+50
+State size is about 2.4827 x 10^50 log2 167.408
+Requiring 214 bits 28 bytes per entry; 28 from identity.
+Found 5828 canonical move states.
+Calculated canonical states in 0.0569689

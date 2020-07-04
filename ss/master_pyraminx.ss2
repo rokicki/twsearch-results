@@ -1,0 +1,15 @@
+# This is twsearch 0.2 (C) 2020 Tomas Rokicki.
+# ./twsearch --schreiersims samples/master_pyraminx.tws
+Created new moves FRD' 2FRD' 2L' L' FDL' 2FDL' 2R' R' DRL' 2DRL' 2F' F' FLR' 2FLR' 2D' D'
+Adding move FRD extends size to 3
+Adding move 2FRD extends size to 9
+Adding move 2L extends size to 27
+Adding move L extends size to 81
+Adding move FDL extends size to 2187
+Adding move 2FDL extends size to 10713850560
+Adding move 2R extends size to 651676388622336000
+Adding move R extends size to 2606705554489344000
+State size is about 3.12805 x 10^19 log2 64.7619
+Requiring 98 bits 16 bytes per entry; 16 from identity.
+Found 416 canonical move states.
+Calculated canonical states in 0.00215316

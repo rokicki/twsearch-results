@@ -1,0 +1,27 @@
+# This is twsearch 0.2 (C) 2020 Tomas Rokicki.
+# ./twsearch --schreiersims samples/gigaminx.tws
+Created new moves U2 U2' U' 2U2 2U2' 2U' 2D2 2D2' 2D' D2 D2' D' F2 F2' F' 2F2 2F2' 2F' 2BF2 2BF2' 2BF' BF2 BF2' BF' L2 L2' L' 2L2 2L2' 2L' 2E2 2E2' 2E' E2 E2' E' BL2 BL2' BL' 2BL2 2BL2' 2BL' 2C2 2C2' 2C' C2 C2' C' BR2 BR2' BR' 2BR2 2BR2' 2BR' 2A2 2A2' 2A' A2 A2' A' R2 R2' R' 2R2 2R2' 2R' 2I2 2I2' 2I' I2 I2' I'
+Adding move U extends size to 5
+Adding move 2U extends size to 25
+Adding move 2D extends size to 125
+Adding move D extends size to 625
+Adding move F extends size to 1.4430442043671827945e+49
+Adding move 2F extends size to 6.3362131739356160656e+71
+Adding move 2BF extends size to 9.1438070685205868173e+105
+Adding move BF extends size to 6.4236155816888405776e+140
+Adding move L extends size to 3.4863003185832301102e+167
+Adding move 2L extends size to 2.4226286834759659477e+180
+Adding move 2E extends size to 6.00458787830980059e+197
+Adding move E extends size to 9.1368010170643367939e+219
+Adding move BL extends size to 2.5180941720838344178e+288
+Adding move 2BL extends size to 6.677985744366328879e+291
+Adding move 2C extends size to 1.9112395200376433253e+295
+Adding move C extends size to 1.7801131990469006923e+302
+Adding move BR extends size to 5.8850542360490536877e+305
+Adding move 2BR extends size to 3.4133314569084511386e+307
+Adding move 2A extends size to 2.0138655595759861726e+309
+Adding move A extends size to 7.2499160144735502175e+312
+State size is about 3.6479 x 10^263 log2 875.534
+Requiring 1133 bits 144 bytes per entry; 172 from identity.
+Found 329 canonical move states.
+Calculated canonical states in 3.43305

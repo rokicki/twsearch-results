@@ -1,0 +1,11 @@
+# This is twsearch 0.2 (C) 2020 Tomas Rokicki.
+# ./twsearch --schreiersims samples/pentultimate.tws
+Created new moves U2 U2' U' D2 D2' D' F2 F2' F' BF2 BF2' BF' L2 L2' L' E2 E2' E' BL2 BL2' BL' C2 C2' C' BR2 BR2' BR' A2 A2' A' R2 R2' R' I2 I2' I'
+Adding move U extends size to 5
+Adding move D extends size to 25
+Adding move F extends size to 2.8217867071158790958e+34
+Adding move BF extends size to 3.3861440485390549148e+35
+State size is about 3.38614 x 10^35 log2 118.027
+Requiring 177 bits 24 bytes per entry; 24 from identity.
+Found 13 canonical move states.
+Calculated canonical states in 0.0052762

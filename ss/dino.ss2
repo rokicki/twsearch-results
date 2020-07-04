@@ -1,0 +1,13 @@
+# This is twsearch 0.2 (C) 2020 Tomas Rokicki.
+# ./twsearch --schreiersims samples/dino.tws
+Created new moves DFR' ULB' DLF' UBR' DRB' UFL' DBL' URF'
+Adding move DFR extends size to 3
+Adding move ULB extends size to 9
+Adding move DLF extends size to 180
+Adding move UBR extends size to 3600
+Adding move DRB extends size to 19958400
+Adding move UFL extends size to 239500800
+State size is 239500800 log2 27.8355
+Requiring 44 bits 8 bytes per entry; 8 from identity.
+Found 35 canonical move states.
+Calculated canonical states in 0.000667095

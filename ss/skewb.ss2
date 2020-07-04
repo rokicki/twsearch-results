@@ -1,0 +1,11 @@
+# This is twsearch 0.2 (C) 2020 Tomas Rokicki.
+# ./twsearch --schreiersims samples/skewb.tws
+Created new moves DFR' ULB' DLF' UBR' DRB' UFL' DBL' URF'
+Adding move DFR extends size to 3
+Adding move ULB extends size to 9
+Adding move DLF extends size to 9447840
+Adding move UBR extends size to 37791360
+State size is 340122240 log2 28.3415
+Requiring 43 bits 8 bytes per entry; 8 from identity.
+Found 9 canonical move states.
+Calculated canonical states in 0.00070405

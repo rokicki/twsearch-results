@@ -1,0 +1,13 @@
+# This is twsearch 0.2 (C) 2020 Tomas Rokicki.
+# ./twsearch --schreiersims samples/4x4x4.tws
+Created new moves F2 F' 2F2 2F' 2B2 2B' B2 B' D2 D' 2D2 2D' 2U2 2U' U2 U' L2 L' 2L2 2L' 2R2 2R' R2 R'
+Adding move F extends size to 4
+Adding move 2F extends size to 16
+Adding move 2B extends size to 64
+Adding move B extends size to 256
+Adding move D extends size to 9.1576608885414163461e+45
+Adding move 2D extends size to 1.6972688908618238933e+55
+State size is about 1.77629 x 10^47 log2 156.959
+Requiring 219 bits 28 bytes per entry; 36 from identity.
+Found 13 canonical move states.
+Calculated canonical states in 0.012398

@@ -1,0 +1,19 @@
+# This is twsearch 0.2 (C) 2020 Tomas Rokicki.
+# ./twsearch --schreiersims samples/icosahedron_moving_faces.tws
+Created new moves ERFUG2 ERFUG2' ERFUG' ONDBK2 ONDBK2' ONDBK' EIHCR2 EIHCR2' EIHCR' OKMQP2 OKMQP2' OKMQP' LFRCA2 LFRCA2' LFRCA' SJMKB2 SJMKB2' SJMKB' LANOP2 LANOP2' LANOP' SIEGJ2 SIEGJ2' SIEGJ' LPQUF2 LPQUF2' LPQUF' SBDHI2 SBDHI2' SBDHI' UQMJG2 UQMJG2' UQMJG' DNACH2 DNACH2' DNACH'
+Adding move ERFUG extends size to 5
+Adding move ONDBK extends size to 25
+Adding move EIHCR extends size to 457228800000
+Adding move OKMQP extends size to 8.3623270219776e+21
+Adding move LFRCA extends size to 1.0172871170160014131e+31
+Adding move SJMKB extends size to 1.2375419852953699112e+40
+Adding move LANOP extends size to 6.4301865740232962645e+56
+Adding move SIEGJ extends size to 9.7224420999232239543e+60
+Adding move LPQUF extends size to 2.8195082089777349464e+63
+Adding move SBDHI extends size to 8.4585246269332048394e+65
+Adding move UQMJG extends size to 4.2292623134666024203e+66
+Adding move DNACH extends size to 2.1146311567333012097e+67
+State size is about 2.11463 x 10^67 log2 223.65
+Requiring 305 bits 40 bytes per entry; 40 from identity.
+Found 69 canonical move states.
+Calculated canonical states in 0.0518279

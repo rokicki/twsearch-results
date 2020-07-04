@@ -1,0 +1,18 @@
+# This is twsearch 0.2 (C) 2020 Tomas Rokicki.
+# ./twsearch --schreiersims samples/curvy_copter.tws
+Adding move DF extends size to 2
+Adding move UB extends size to 4
+Adding move FL extends size to 24
+Adding move BR extends size to 144
+Adding move DB extends size to 10368
+Adding move UF extends size to 746496
+Adding move DL extends size to 25082265600
+Adding move UR extends size to 150493593600
+Adding move BL extends size to 78991077408768000
+Adding move FR extends size to 473946464452608000
+Adding move UL extends size to 1.5166286862483456e+21
+Adding move DR extends size to 3.0332573724966912e+21
+State size is about 9.70642 x 10^22 log2 76.3614
+Requiring 107 bits 16 bytes per entry; 16 from identity.
+Found 108 canonical move states.
+Calculated canonical states in 0.00524497

@@ -1,0 +1,11 @@
+# This is twsearch 0.2 (C) 2020 Tomas Rokicki.
+# ./twsearch --schreiersims samples/big_chop.tws
+Adding move FU extends size to 2
+Adding move BFD extends size to 4
+Adding move LU extends size to 2304
+Adding move ED extends size to 3686400
+Adding move LF extends size to 3.4619413265204148093e+163
+State size is about 8.70963 x 10^113 log2 378.5
+Requiring 472 bits 60 bytes per entry; 92 from identity.
+Found 31 canonical move states.
+Calculated canonical states in 0.424684

@@ -1,0 +1,12 @@
+# This is twsearch 0.2 (C) 2020 Tomas Rokicki.
+# ./twsearch --schreiersims samples/radio_chop.tws
+Created new moves R' K' L' S' G' N' U' D' H' Q' C' M' I' P' O' E' F' B' A' J'
+Adding move R extends size to 3
+Adding move K extends size to 9
+Adding move L extends size to 302330880
+Adding move S extends size to 1209323520
+Adding move U extends size to 5.9185659469883029245e+115
+State size is about 5.91857 x 10^115 log2 384.587
+Requiring 526 bits 68 bytes per entry; 68 from identity.
+Found 21 canonical move states.
+Calculated canonical states in 0.1555

@@ -1,0 +1,13 @@
+# This is twsearch 0.2 (C) 2020 Tomas Rokicki.
+# ./twsearch --schreiersims samples/Trajbers_octahedron.tws
+Created new moves FRND2 FRND' BULM2 BULM' FDML2 FDML' BNRU2 BNRU' BMDN2 BMDN' FLUR2 FLUR'
+Adding move FRND extends size to 4
+Adding move BULM extends size to 16
+Adding move FDML extends size to 2341011456000
+Adding move BNRU extends size to 1236054048768000
+Adding move BMDN extends size to 10125754767507456000
+Adding move FLUR extends size to 40503019070029824000
+State size is about 1.62012 x 10^20 log2 67.1347
+Requiring 88 bits 12 bytes per entry; 12 from identity.
+Found 7 canonical move states.
+Calculated canonical states in 0.00262189

@@ -1,0 +1,10 @@
+# This is twsearch 0.2 (C) 2020 Tomas Rokicki.
+# ./twsearch --schreiersims samples/squareone.tws
+Created new moves U2 U3 U4 U5 U6 U5' U4' U3' U2' U' D2 D3 D4 D5 D6 D5' D4' D3' D2' D'
+Adding move U extends size to 12
+Adding move D extends size to 144
+Adding move S extends size to 1.2408968034664788787e+24
+State size is about 3.07762 x 10^19 log2 64.7384
+Requiring 116 bits 16 bytes per entry; 16 from identity.
+Found 4 canonical move states.
+Calculated canonical states in 0.00124407

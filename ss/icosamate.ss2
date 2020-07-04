@@ -1,0 +1,11 @@
+# This is twsearch 0.2 (C) 2020 Tomas Rokicki.
+# ./twsearch --schreiersims samples/icosamate.tws
+Created new moves ERFUG2 ERFUG2' ERFUG' ONDBK2 ONDBK2' ONDBK' EIHCR2 EIHCR2' EIHCR' OKMQP2 OKMQP2' OKMQP' LFRCA2 LFRCA2' LFRCA' SJMKB2 SJMKB2' SJMKB' LANOP2 LANOP2' LANOP' SIEGJ2 SIEGJ2' SIEGJ' LPQUF2 LPQUF2' LPQUF' SBDHI2 SBDHI2' SBDHI' UQMJG2 UQMJG2' UQMJG' DNACH2 DNACH2' DNACH'
+Adding move ERFUG extends size to 5
+Adding move ONDBK extends size to 25
+Adding move EIHCR extends size to 5.927347587889728e+33
+Adding move OKMQP extends size to 7.1128171054676735998e+34
+State size is about 7.11282 x 10^34 log2 115.776
+Requiring 175 bits 24 bytes per entry; 24 from identity.
+Found 13 canonical move states.
+Calculated canonical states in 0.00592303

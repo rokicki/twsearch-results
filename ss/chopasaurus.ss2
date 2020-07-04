@@ -1,0 +1,11 @@
+# This is twsearch 0.2 (C) 2020 Tomas Rokicki.
+# ./twsearch --schreiersims samples/chopasaurus.tws
+Created new moves FUR' BFID' LUF' EBFD' LFA' EBRBF' LBLU' EDC' LIBL' ECR' UBLBR' DAC' BFBRBL' FCA' RUBR' IAD' FRC' BFBLI' ERBR' LAI'
+Adding move FUR extends size to 3
+Adding move BFID extends size to 9
+Adding move LUF extends size to 1.5214677738112476503e+87
+Adding move EBFD extends size to 4.2264091484669148318e+117
+State size is about 9.4804 x 10^92 log2 308.862
+Requiring 415 bits 52 bytes per entry; 68 from identity.
+Found 21 canonical move states.
+Calculated canonical states in 0.163257

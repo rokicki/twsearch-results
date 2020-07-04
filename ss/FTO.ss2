@@ -1,0 +1,13 @@
+# This is twsearch 0.2 (C) 2020 Tomas Rokicki.
+# ./twsearch --schreiersims samples/FTO.tws
+Created new moves F' BB' D' U' L' BR' BL' R'
+Adding move F extends size to 3
+Adding move BB extends size to 9
+Adding move D extends size to 104292060364800000
+Adding move U extends size to 2.37886018009694208e+24
+Adding move L extends size to 1.3188400838457446892e+28
+Adding move BR extends size to 1.582608100614893627e+29
+State size is about 1.20607 x 10^25 log2 83.3185
+Requiring 113 bits 16 bytes per entry; 20 from identity.
+Found 9 canonical move states.
+Calculated canonical states in 0.00325489

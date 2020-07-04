@@ -1,0 +1,37 @@
+# This is twsearch 0.2 (C) 2020 Tomas Rokicki.
+# ./twsearch --schreiersims samples/20x20x20.tws
+Created new moves F2 F' 2F2 2F' 3F2 3F' 4F2 4F' 5F2 5F' 6F2 6F' 7F2 7F' 8F2 8F' 9F2 9F' 10F2 10F' 10B2 10B' 9B2 9B' 8B2 8B' 7B2 7B' 6B2 6B' 5B2 5B' 4B2 4B' 3B2 3B' 2B2 2B' B2 B' D2 D' 2D2 2D' 3D2 3D' 4D2 4D' 5D2 5D' 6D2 6D' 7D2 7D' 8D2 8D' 9D2 9D' 10D2 10D' 10U2 10U' 9U2 9U' 8U2 8U' 7U2 7U' 6U2 6U' 5U2 5U' 4U2 4U' 3U2 3U' 2U2 2U' U2 U' L2 L' 2L2 2L' 3L2 3L' 4L2 4L' 5L2 5L' 6L2 6L' 7L2 7L' 8L2 8L' 9L2 9L' 10L2 10L' 10R2 10R' 9R2 9R' 8R2 8R' 7R2 7R' 6R2 6R' 5R2 5R' 4R2 4R' 3R2 3R' 2R2 2R' R2 R'
+Adding move F extends size to 4
+Adding move 2F extends size to 16
+Adding move 3F extends size to 64
+Adding move 4F extends size to 256
+Adding move 5F extends size to 1024
+Adding move 6F extends size to 4096
+Adding move 7F extends size to 16384
+Adding move 8F extends size to 65536
+Adding move 9F extends size to 262144
+Adding move 10F extends size to 1048576
+Adding move 10B extends size to 4194304
+Adding move 9B extends size to 16777216
+Adding move 8B extends size to 67108864
+Adding move 7B extends size to 268435456
+Adding move 6B extends size to 1073741824
+Adding move 5B extends size to 4294967296
+Adding move 4B extends size to 17179869184
+Adding move 3B extends size to 68719476736
+Adding move 2B extends size to 274877906944
+Adding move B extends size to 1099511627776
+Adding move D extends size to 7.4233129181116302363e+1277
+Adding move 2D extends size to 7.8715646455934158878e+1455
+Adding move 3D extends size to 9.491879413345536441e+1612
+Adding move 4D extends size to 1.3015810146977120458e+1749
+Adding move 5D extends size to 2.0296354765402903141e+1864
+Adding move 6D extends size to 3.5990902153571916636e+1958
+Adding move 7D extends size to 7.2576374170318680794e+2031
+Adding move 8D extends size to 1.664277146133478325e+2084
+Adding move 9D extends size to 4.3399415313252363654e+2115
+Adding move 10D extends size to 8.0435908677229633415e+2124
+State size is about 3.20787 x 10^1478 log2 4911.49
+Requiring 6659 bits 836 bytes per entry; 1300 from identity.
+Found 61 canonical move states.
+Calculated canonical states in 2181.03

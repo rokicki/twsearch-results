@@ -1,0 +1,13 @@
+# This is twsearch 0.2 (C) 2020 Tomas Rokicki.
+# ./twsearch --schreiersims samples/starminx_2.tws
+Created new moves U2 U2' U' D2 D2' D' F2 F2' F' BF2 BF2' BF' L2 L2' L' E2 E2' E' BL2 BL2' BL' C2 C2' C' BR2 BR2' BR' A2 A2' A' R2 R2' R' I2 I2' I'
+Adding move U extends size to 5
+Adding move D extends size to 25
+Adding move F extends size to 2.4196087758779562838e+94
+Adding move BF extends size to 2.0387901734687519575e+127
+Adding move L extends size to 1.1824983006118761348e+129
+Adding move E extends size to 7.0949898036712568098e+130
+State size is about 1.5915 x 10^106 log2 352.795
+Requiring 454 bits 60 bytes per entry; 72 from identity.
+Found 13 canonical move states.
+Calculated canonical states in 0.264825

@@ -1,0 +1,11 @@
+# This is twsearch 0.2 (C) 2020 Tomas Rokicki.
+# ./twsearch --schreiersims samples/skewb_diamond.tws
+Created new moves F' B' D' U' L' N' M' R'
+Adding move F extends size to 3
+Adding move B extends size to 9
+Adding move D extends size to 414720
+Adding move U extends size to 1658880
+State size is 53084160 log2 25.6618
+Requiring 37 bits 8 bytes per entry; 8 from identity.
+Found 9 canonical move states.
+Calculated canonical states in 0.000648022

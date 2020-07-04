@@ -1,0 +1,62 @@
+Curvy Copter shapes.
+
+Corners are 2, edges are 1.
+
+Half-shapes (sum to 6); there are 13 of these.
+
+111111
+11112
+11121
+11211
+12111
+21111
+1122
+1212
+1221
+2112
+2121
+2211
+222
+
+Full shapes on one face.  These sum to 12.  Listing only a single
+rotation.  I count 24 of these.  I've started the ones that are
+mirror symmetric, because those count only 1 when ignoring mirror
+symmetry.
+
+1111111122*
+1111111212*
+1111112112*
+1111121112*
+1111211112*
+111111222*
+111112122
+111121122
+111121212*
+111211122*
+111211212
+112112112*
+11112222*
+11121222
+11122122*
+11211222*
+11212122
+11212212*
+11221122*
+12121212*
+1122222*
+1212222*
+1221222*
+222222*
+
+Count of corners:  Positions w/o mirror:  Positions w mirrors:
+   2                      5                       5
+   3                      7                      10
+   4                      8                      10
+   5                      3                       3
+   6                      1                       1
+                         24                      29
+
+Total count of up/down, with mirrors, is thus:
+
+(5*1)+(3*10)+(10*11/2) = 90 distinct positions, not including the
+information about the middle slice and treating up/down as equivalent.

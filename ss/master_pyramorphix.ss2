@@ -1,0 +1,12 @@
+# This is twsearch 0.2 (C) 2020 Tomas Rokicki.
+# ./twsearch --schreiersims samples/master_pyramorphix.tws
+Adding move FD extends size to 2
+Adding move LR extends size to 4
+Adding move FL extends size to 96
+Adding move DR extends size to 192
+Adding move DL extends size to 663552
+Adding move FR extends size to 1327104
+State size is 21233664 log2 24.3399
+Requiring 30 bits 4 bytes per entry; 4 from identity.
+Found 7 canonical move states.
+Calculated canonical states in 0.000777006

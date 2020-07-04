@@ -1,0 +1,32 @@
+# This is twsearch 0.2 (C) 2020 Tomas Rokicki.
+# ./twsearch --schreiersims samples/13x13x13.tws
+Created new moves F2 F' 2F2 2F' 3F2 3F' 4F2 4F' 5F2 5F' 6F2 6F' 6B2 6B' 5B2 5B' 4B2 4B' 3B2 3B' 2B2 2B' B2 B' D2 D' 2D2 2D' 3D2 3D' 4D2 4D' 5D2 5D' 6D2 6D' 6U2 6U' 5U2 5U' 4U2 4U' 3U2 3U' 2U2 2U' U2 U' L2 L' 2L2 2L' 3L2 3L' 4L2 4L' 5L2 5L' 6L2 6L' 6R2 6R' 5R2 5R' 4R2 4R' 3R2 3R' 2R2 2R' R2 R'
+Adding move F extends size to 4
+Adding move 2F extends size to 16
+Adding move 3F extends size to 64
+Adding move 4F extends size to 256
+Adding move 5F extends size to 1024
+Adding move 6F extends size to 4096
+Adding move 6B extends size to 16384
+Adding move 5B extends size to 65536
+Adding move 4B extends size to 262144
+Adding move 3B extends size to 1048576
+Adding move 2B extends size to 4194304
+Adding move B extends size to 16777216
+Adding move D extends size to 1.4294067088400781556e+491
+Adding move 2D extends size to 9.1980027786849830581e+591
+Adding move 3D extends size to 6.7306824924818045096e+671
+Adding move 4D extends size to 5.6008316496049032696e+730
+Adding move 5D extends size to 5.2999745092418022687e+768
+Adding move 6D extends size to 3.5645351973178582231e+784
+Adding move 6U extends size to 4.7051864604595728521e+786
+Adding move 5U extends size to 6.2108461278066361588e+788
+Adding move 4U extends size to 8.1983168887047597373e+790
+Adding move 3U extends size to 1.0821778293090282852e+793
+Adding move 2U extends size to 1.4284747346879173371e+795
+Adding move U extends size to 7.5564210764808947844e+807
+Adding move L extends size to 2.2377152056451208417e+843
+State size is about 1.75271 x 10^604 log2 2007.25
+Requiring 2735 bits 344 bytes per entry; 516 from identity.
+Found 37 canonical move states.
+Calculated canonical states in 57.1074
