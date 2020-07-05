@@ -1,0 +1,170 @@
+State space sizes, reductions by identical pieces, and some
+thoughts on parities.  We do not include reduction by rotation
+here.
+
+2x2x2 8! 3^7
+
+Corner twist parity is preserved (on all nxnxn cubes).
+
+2x2x2_+_dino 24!
+
+Dino moves mean we can "do" a corner twist (though in reality
+there are only edges, not corners).
+
+2x2x2_+_dino_+_little_chop [24!^2 2^-1] [2^35 3^12] [24!^2 2^-36 3^-12]
+
+Without identical pieces, the two orbits of 24 centers have identical
+parities.  Identical pieces reduces things by 4!^12.
+
+2x2x2_+_little_chop [24!^2 2^-1] [2^35 3^12] [24!^2 2^-36 3^-12]
+
+Same as above; the little chop moves don't change the puzzle.
+
+3x3x3 12! 8! 2^10 3^7 1
+
+No identical pieces; parity of corners and edges preserved, and
+edge/corner orientation is the same.
+
+4x4x4 [24!^2 8! 2^-1 3^7] [2^17 3^6] [24!^2 8! 2^-18 3]
+
+Corner orientation preserved.  Identical pieces hides the parity
+equivalence between edges and corners.  The 3^8 corner orientations
+are mostly offset by the 4!^6 identical piece reduction.
+
+5x5x5 [24!^3 12! 8! 2^8 3^7] [2^34 3^12] [24!^3 12! 8! 2^-26 3^-5]
+
+Pretty much same as above but now we have edges, so 4!^12 reduction.
+
+6x6x6 [24!^6 8! 2^-4 3^7] [2^68 3^24] [24!^6 8! 2^-72 3^-17]
+
+Continuing in the expected ways for the rest of the cubes.
+
+7x7x7 [24!^8 12! 8! 2^4 3^7] [2^102 3^36] [24!^8 12! 8! 2^-98 3^-29]
+8x8x8 [24!^12 8! 2^-9 3^7] [2^153 3^54] [24!^12 8! 2^-162 3^-47]
+9x9x9 24!^15 12! 8! 2^-2 3^7
+10x10x10 24!^20 8! 2^-16 3^7
+11x11x11 24!^24 12! 8! 2^-10 3^7
+12x12x12 24!^30 8! 2^-25 3^7
+13x13x13 24!^35 12! 8! 2^-20 3^7
+
+big_chop [60!^2 2^-1] [2^71 3^24 5^24] [60!^2 2^-72 3^-24 5^-24]
+
+Without identical pieces parity between two orbits is preserved.  Otherwise
+we have a reduction of 5!^24
+
+chopasaurus [60! 20! 12! 2^-3 3^20] [2^35 3^12 5^12]
+   [60! 20! 12! 2^-38 3^8 5^-12]
+
+Note that corner parity is not preserved here.  But, only even parities
+are available for all permutation (so the 2^-3).  Reduction is by the
+five centers which are split.
+
+Christophers_jewel 12! 2^22
+
+No identical pieces.  Edges permute and orient (12! 2^12) and corners
+rotate but don't permute (4^6) but edge permutation parity matches corner
+parity, and overall edge orientation parity is preserved.
+
+compy_cube 12! 2^-1 3^8
+
+Simple puzzle; no edge orientation, but edge permutation parity is always
+even.
+
+dino 12! 2^-1
+
+All edges; no edge orientation; permutation parity always even.
+
+dino_+_little_chop [24! 2^-1] [2^17 3^6] [24! 2^-18 3^-6]
+
+Without identical pieces, we always have even permutation parity.
+
+Eitans_star [60!^2 20! 12! 2^-4 5^11] [2^19 3^20]
+   [60!^2 20! 12! 2^-23 3^-20 5^11]
+
+This thing is a monster!  Corner twist is preserved.  All permutations are
+always even.  Reduction due to 20 sets of 3 identical centers.
+
+FTO [12!^3 6! 2^-5] [2^6 3^8] [12!^3 6! 2^-11 3^-8]
+
+Note that centers are in two distinct orbits of 12 pieces each, plus
+the 12 corners, gives the 12!; plus, 6 corners.  All permutations of the
+4 orbits are even, and orientation parity of the corners are preserved.
+The edges don't orient (like on the dino).  The reduction due to identical
+pieces is due to 6!^8 but hiding the permutation parity of two of the orbits.
+
+gigaminx [60!^3 30! 20! 2^24 3^19] [2^70 3^24 5^24]
+   [60!^3 30! 20! 2^-46 3^-5 5^-24]
+
+Corner parity preserved.  Edge orientation parity preserved.  Plus, all
+orbits of edges, corners, off-edges, and two different centers are
+preserved.  Reduction is by 5!^24 and hides two of the permutation parities.
+
+helicopter 8! 6!^4 2^-1 3^7
+
+Corner orientation parity preserved.  Centers permutation parity of the four
+distinct orbits always sums to even.
+
+icosahedron_2 [60! 30! 12! 2^26 5^12] [2^19 3^20] [60! 30! 12! 2^7 3^-20 5^12]
+
+Corner twist *not* preserved.  All permutations of four orbits is even.
+Reduction is by 3!^20, hiding one of the permutation parities of an orbit.
+
+icosahedron_3 60!^6 2^-5
+
+All centers.  Six orbits; permutations are all even except for a couple?
+We don't have the reduction information (yet).
+
+icosahedron_moving_faces 30! 20! 2^27 5^12
+
+Corner-turning puzzle (like dino); permutation parity of edges and centers
+is preserved, plus total edge permutation parity is preserved.  Corner
+twist is not preserved.
+
+icosahedron_static_faces 30! 2^28 5^12
+
+Same as above but faces don't move.
+
+icosamate 20! 12! 2^-2 5^12
+
+Vertex-turning deep-cut.  Corner orientation twist not preserved.  Two
+orbits; both are always even.
+
+Jing_pyraminx 6! 4! 4! 2^2 3^3
+
+Corner parity not preserved.  Edge and center permutation parity always
+even.  Center vs corner twist interact in nontrivial way to provide another
+factor of three reduction.  (Essentially, twist is preserved when you
+only move faces and not tips but otherwise puzzle is the same).
+
+little_chop [24! 2^-1] [2^17 3^6] [24! 2^-18 3^-6]
+
+Even parity.  With identical pieces reduction is by six orbits of four
+pieces each.
+
+master_pyraminx 12! 6! 4!^2 2 3^8
+
+This has eight corners, for real.  Also one set of 6 edges and one set of
+12 edges.  Corner twist is not preserved because of tips.  No identical pieces.
+Centers make up the other set of 4.  Two different corner permutations
+are completely coupled.  Permutation of all four sets is always even.
+Edge orientation is preserved.
+
+master_pyramorphix 2^14 3^4 1
+master_skewb [12!^3 2^4 3^10 5] [2^10] [12!^3 2^-6 3^10 5]
+mastermorphix 2^16 3^4 1
+megaminx 30! 20! 2^27 3^19 1
+megaminx_+_chopasaurus [60! 20! 12! 2^-3 3^20] [2^35 3^12 5^12] [60! 20! 12! 2^-38 3^8 5^-12]
+octastar 24! 2^-1 1
+pentultimate 20! 12! 2^-2 3^19 1
+professor_pyraminx [12!^3 2^9 3^12 5] [2^3 3^4] [12!^3 2^6 3^8 5]
+professor_skewb [12!^8 2^-1 3^10 5] [2^30] [12!^8 2^-31 3^10 5]
+pyraminx 2^10 3^10 5 1
+pyraminx_crystal 30! 20! 2^27 3^19 1
+pyramorphix 2^5 3 1
+radio_chop 60! 20! 12! 2^-3 5^11 1
+skewb 2^7 3^10 5 1
+skewb_diamond 2^12 3^4 5 1
+starminx 30! 2^28 3^20 1
+starminx_2 [60! 30! 12! 2^26] [2^35 3^12 5^12] [60! 30! 12! 2^-9 3^-12 5^-12]
+starminx_combo [60! 30! 12! 2^26] [2^35 3^12 5^12] [60! 30! 12! 2^-9 3^-12 5^-12]
+Trajbers_octahedron 12! 8! 2^21 1
