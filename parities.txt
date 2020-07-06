@@ -46,6 +46,7 @@ Continuing in the expected ways for the rest of the cubes.
 11x11x11 24!^24 12! 8! 2^-10 3^7
 12x12x12 24!^30 8! 2^-25 3^7
 13x13x13 24!^35 12! 8! 2^-20 3^7
+20x20x20 24!^90 8! 2^-81 3^7
 
 big_chop [60!^2 2^-1] [2^71 3^24 5^24] [60!^2 2^-72 3^-24 5^-24]
 
@@ -149,11 +150,43 @@ Centers make up the other set of 4.  Two different corner permutations
 are completely coupled.  Permutation of all four sets is always even.
 Edge orientation is preserved.
 
-master_pyramorphix 2^14 3^4 1
+master_pyramorphix 4!^4 2^2
+
+There are six edges that contribute 2^6.  Centers come in three sets of four,
+and corners are also a single set of four; corners have a fixed orientation.
+This would seem to be 4!^4 2^6 but the individual parities of the center
+permutation is completely determined by the edge flips so that reduces it by
+2^4.
+
 master_skewb [12!^3 2^4 3^10 5] [2^10] [12!^3 2^-6 3^10 5]
-mastermorphix 2^16 3^4 1
-megaminx 30! 20! 2^27 3^19 1
-megaminx_+_chopasaurus [60! 20! 12! 2^-3 3^20] [2^35 3^12 5^12] [60! 20! 12! 2^-38 3^8 5^-12]
+
+There are 12 edges and two sets of 12 center orbits.  Edge orientation is
+preserved.  There are two sets of 4 corner orbits, each with orientation.
+There are six moving centers.  Skewb corners are interesting in that the
+twists and permutation of one set of corners are intertwined with the other
+set of corners reducing the expected combinations by 3.  Also, the
+corner permutations are even; the center permutations for all three sets are
+even; the edge permutations are even, so this gives an additional reduction
+of 2^6.  Finally, for identical pieces, there are 12 pairs of identical
+centers, but these also hide the parity preservation of the two orbits of
+12 centers so identical pieces reduce things by 2^10.
+
+mastermorphix 4!^5 2^6 / (6 * 2^4)
+
+There are six edges that don't permute but give 2^6 in orientations.
+There are four corners that permute but don't reorient.  There are
+four orbits of four centers that permute.  The parity of all four center
+orbits are completely determined by the edge flips.  Like the skewb, the
+corner permutation is intertwined with the other permutations to reduce
+things by another factor of six.
+
+megaminx 30! 20! 2^27 3^19
+
+There are 30 edges and 20 corners that both permute and orient.  All
+permutations are even, and twist is preserved for both orbits.
+
+megaminx_+_chopasaurus [60! 20! 12! 2^-3 3^20] [2^35 3^12 5^12]
+   [60! 20! 12! 2^-38 3^8 5^-12]
 octastar 24! 2^-1 1
 pentultimate 20! 12! 2^-2 3^19 1
 professor_pyraminx [12!^3 2^9 3^12 5] [2^3 3^4] [12!^3 2^6 3^8 5]
@@ -162,7 +195,7 @@ pyraminx 2^10 3^10 5 1
 pyraminx_crystal 30! 20! 2^27 3^19 1
 pyramorphix 2^5 3 1
 radio_chop 60! 20! 12! 2^-3 5^11 1
-skewb 2^7 3^10 5 1
+skewb 6! 2^3 3^8 1
 skewb_diamond 2^12 3^4 5 1
 starminx 30! 2^28 3^20 1
 starminx_2 [60! 30! 12! 2^26] [2^35 3^12 5^12] [60! 30! 12! 2^-9 3^-12 5^-12]
