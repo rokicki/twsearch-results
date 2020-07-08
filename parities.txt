@@ -280,3 +280,11 @@ Six orientable corners that don't permute, eight centers that do, and
 12 orientable edges that permute.  The parity of edges and centers match,
 and they match the parity of the twist of the corners.  The total twist
 of the edges is even.
+
+curvy_copter [8! 6!^4 3^8 2^12 2^-5 3^-1]
+
+Eight corners that permute and orient, with preserved total twist.
+Four sets of 6 petals that permute.  Twelve edges that twist.
+Parities of petal orbits defined by edge flips.  Parity of corner
+permutation defined by total edge flip parity.
+
