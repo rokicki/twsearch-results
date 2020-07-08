@@ -20,7 +20,7 @@ parities.  Identical pieces reduces things by 4!^12.
 
 Same as above; the little chop moves don't change the puzzle.
 
-3x3x3 12! 8! 2^10 3^7 1
+3x3x3 12! 8! 2^10 3^7
 
 No identical pieces; parity of corners and edges preserved, and
 edge/corner orientation is the same.
@@ -110,10 +110,11 @@ icosahedron_2 [60! 30! 12! 2^26 5^12] [2^19 3^20] [60! 30! 12! 2^7 3^-20 5^12]
 Corner twist *not* preserved.  All permutations of four orbits is even.
 Reduction is by 3!^20, hiding one of the permutation parities of an orbit.
 
-icosahedron_3 60!^6 2^-5
+icosahedron_3 [60!^6 2^-5] [2^115 3^120] [60!^6 2^-120 3^-120]
 
-All centers.  Six orbits; permutations are all even except for a couple?
-We don't have the reduction information (yet).
+All centers.  Six orbits; permutations are all even except middle edge
+centers are linked.  Reduction is by 120 sets of 3 identical pieces
+hiding all parities.
 
 icosahedron_moving_faces 30! 20! 2^27 5^12
 
@@ -162,14 +163,13 @@ master_skewb [12!^3 2^4 3^10 5] [2^10] [12!^3 2^-6 3^10 5]
 
 There are 12 edges and two sets of 12 center orbits.  Edge orientation is
 preserved.  There are two sets of 4 corner orbits, each with orientation.
-There are six moving centers.  Skewb corners are interesting in that the
-twists and permutation of one set of corners are intertwined with the other
-set of corners reducing the expected combinations by 3.  Also, the
-corner permutations are even; the center permutations for all three sets are
-even; the edge permutations are even, so this gives an additional reduction
-of 2^6.  Finally, for identical pieces, there are 12 pairs of identical
-centers, but these also hide the parity preservation of the two orbits of
-12 centers so identical pieces reduce things by 2^10.
+There are six moving centers. The corner permutations are even; the center
+permutations for all three sets are even; the edge permutations are even,
+so this gives an additional reduction of 2^6.  Total twist of the corners
+is preserved independently for each corner orbit.  Finally, for identical
+pieces, there are 12 pairs of identical centers, but these also hide the
+parity preservation of the two orbits of 12 centers so identical pieces
+reduce things by 2^10.
 
 mastermorphix 4!^5 2^6 / (6 * 2^4)
 
@@ -214,13 +214,69 @@ pieces, there are 4 sets of 3 centers on each face, hiding the permutation
 parity of those centers.
 
 professor_skewb [12!^8 2^-1 3^10 5] [2^30] [12!^8 2^-31 3^10 5]
-pyraminx 2^10 3^10 5 1
-pyraminx_crystal 30! 20! 2^27 3^19 1
-pyramorphix 2^5 3 1
-radio_chop 60! 20! 12! 2^-3 5^11 1
-skewb 6! 2^3 3^8 1
-skewb_diamond 2^12 3^4 5 1
-starminx 30! 2^28 3^20 1
-starminx_2 [60! 30! 12! 2^26] [2^35 3^12 5^12] [60! 30! 12! 2^-9 3^-12 5^-12]
-starminx_combo [60! 30! 12! 2^26] [2^35 3^12 5^12] [60! 30! 12! 2^-9 3^-12 5^-12]
-Trajbers_octahedron 12! 8! 2^21 1
+[12!^8 6! 4!^2 3^8 2^-11 3^-2] [2^30] [12!^8 6! 4!^2 3^8 2^-41 3^-2]
+
+Six obits of 12 centers and two orbits of 12 edges are most of the
+states.  We also have one orbit of 6 centers and two orbits of 4
+corners.  Orientation of the corners sums to zero for each of the
+two orbits.  All 11 orbits are even.  For identical pieces, we have
+36 identical pairs of centers but these hide the parity of those
+permutations so the reduction is only 2^30.
+
+pyraminx 6! 4! 3^8 2^6 2^-3 3^-1
+
+The pyraminx has two sets of 4 corners with the permutations completely
+linked plus one set of six orientable edges.  The total twist of both
+edges and one set of corners is preserved, and the parity of all
+permutations is even.
+
+pyraminx_crystal 30! 20! 2^27 3^19
+
+30 orientable corners and 20 orientable edges.  Twist is preserved for
+both edges and corners and parity of both orbits is even.
+
+pyramorphix 4!^2 2^-1 3^-1
+
+Corners and centers, four each, linked like the skewb.  Corners are not
+orientable, and the parity of the corners and centers match.
+
+radio_chop 60! 20! 12! 2^-3 5^11
+
+20 orientable corners, 60 non-orientable edges, and 12 centers.  All
+orbits are even and twist is preserved on corners.
+
+skewb 6! 4!^2 3^8 2^-3 3^-2
+
+Two sets of four corners.  Corners are orientable but total twist is
+preserved independently for each orbit.  Six centers with even permutation.
+
+skewb_diamond 6! 4!^2 2^2
+
+Octahedron-based skewb; two orbits of four centers plus one orbit of
+six corners.  The corners are orientable but only two ways each, and
+total twist is preserved, and the parity is even.  For each of the
+two orbits of centers, the parity is even.
+
+starminx 30! 2^28 3^20
+
+30 edges that orient, and 20 corners that twist but do not permute.
+The edge permutation is even and the total twist of the edges is
+preserved.
+
+starminx_2 [60! 30! 12! 2^26] [5!^12 2^-1] [60! 30! 12! 5!^-12 2^27]
+
+60 centers that move, plus 30 edges that orient and permute, plus 12 centers
+that permute; parity of the edges is preserved and all four orbits are even.
+Reduction is by 12 sets of 5 centers that also hide the even permutation.
+
+starminx_combo [60! 30! 12! 2^26] [5!^12 2^-1] [60! 30! 12! 5!^-12 2^27]
+
+This works the same as the starminx_2; the corner moves do not increase
+the reachable positions (but do make the puzzle much easier).
+
+Trajbers_octahedron 12! 8! 2^21
+
+Six orientable corners that don't permute, eight centers that do, and
+12 orientable edges that permute.  The parity of edges and centers match,
+and they match the parity of the twist of the corners.  The total twist
+of the edges is even.
