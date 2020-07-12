@@ -1,0 +1,53 @@
+Notes on the UFO:
+
+It's difficult on my UFOs to make horizontal turns (those that preserve
+the top and bottom) but easy to make vertical turns (where you mix the
+top and bottom).  So I've been interested in solutions that minimize
+the number of horizontal twists.
+
+God's number for the UFO is well known (14 moves HTM, 16 moves QTM).
+But if vertical turns are free, what's the minimum number of horizontal
+turns?
+
+If you really don't want to spin, here are counts.
+
+No spin:           96
+With spin:        396
+No spin:        23520
+With spin:      90300
+No spin:      4509024
+With spin:   15067689
+No spin:    342841344
+With spin:  456788554
+No spin:    479001600
+
+So you can solve every UFO position with just four horizontal spins.
+
+Let's check things out then with quarter-turns, so now we only allow
+60 degree spins, and see what happens.
+
+No spin:           96
+With spin:        216
+No spin:        11616
+With spin:      24780
+No spin:        11616
+With spin:      24780
+No spin:      1133664
+With spin:    2308282
+No spin:     76991136
+With spin:  134249961
+No spin:    478382016
+With spin:  478811552
+No spin:    479001600
+
+So all positions can be solved with at most six 60-degree spins.
+
+What's the easiest way to solve it?  Frankly, all you need is one
+move.  First, solve the top half (this is easy).  Next, flip over the
+puzzle.  This algorithm swaps the north and northeast piece with
+only two easy U spins.
+
+F R L F U F R L F U F R L F
+
+It looks long but it's easy to remember and execute, and you don't
+need to execute this more than a few times.
