@@ -1,0 +1,17 @@
+r-2416-2.sh: line 2:  3625 Terminated              ./twsearch -M 240000 -t 8 -F -g symmsamples/gigaminx.tws > gigaminx-symm-g7.log
+U' 2U2 2U2' 2U' 2D2 2D2' 2D' D2 D2' D' F2 F2' F' 2F2 2F2' 2F' 2BF2 2BF2' 2BF' BF2 BF2' BF' L2 L2' L' 2L2 2L2' 2L' 2E2 2E2' 2E' E2 E2' E' BL2 BL2' BL' 2BL2 2BL2' 2BL' 2C2 2C2' 2C' C2 C2' C' BR2 BR2' BR' 2BR2 2BR2' 2BR' 2A2 2A2' 2A' A2 A2' A' R2 R2' R' 2R2 2R2' 2R' 2I2 2I2' 2I' I2 I2' I'
+Rotation group size is 60
+State size is about 8.73675 x 10^271 log2 903.37
+Requiring 1178 bits 148 bytes per entry; 180 from identity.
+Found 329 canonical move states.
+Calculated canonical states in 0.0178492
+Using sorting bfs symm and arrays.
+Dist 0 cnt 1 tot 1 scnt 1 stot 1 in 0.001588821411132812
+Dist 1 cnt 8 tot 9 scnt 96 stot 97 in 0.0008449554443359375
+Dist 2 cnt 152 tot 161 scnt 6336 stot 6433 in 0.004597187042236328
+Dist 3 cnt 6320 tot 6481 scnt 372736 stot 379169 in 0.06474399566650391
+Dist 4 cnt 350352 tot 356833 scnt 21002496 stot 21381665 in 2.505645990371704
+Dist 5 cnt 19368102 tot 19724935 scnt 1162085880 stot 1183467545 in 137.3328399658203
+Created 1680675058 elements in 5322.683505058289
+to 1007719220 in 1512.197626829147
+Dist 6 cnt 1063010916 tot 1082735851 scnt 63780322720 stot 64963790265 in 1587.454241037369
