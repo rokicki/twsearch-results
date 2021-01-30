@@ -1,0 +1,16 @@
+r-1089-2.sh: line 2:  1103 Terminated              ./twsearch -M 60000 -t 8 -F -g symmsamples/5x5x5obtm.tws > 5x5x5obtm-symm-g5.log
+ f' b2 b' B2 B' D2 D' d2 d' u2 u' U2 U' L2 L' l2 l' r2 r' R2 R'
+Rotation group size is 24
+State size is about 4.07334 x 10^77 log2 257.815
+Requiring 359 bits 48 bytes per entry; 60 from identity.
+Found 13 canonical move states.
+Calculated canonical states in 0.00358605
+Using sorting bfs symm and arrays.
+Dist 0 cnt 1 tot 1 scnt 1 stot 1 in 0.0001699924468994141
+Dist 1 cnt 6 tot 7 scnt 36 stot 37 in 0.0003480911254882812
+Dist 2 cnt 66 tot 73 scnt 1026 stot 1063 in 0.001500844955444336
+Dist 3 cnt 1278 tot 1351 scnt 28836 stot 29899 in 0.007307052612304688
+Dist 4 cnt 34208 tot 35559 scnt 810831 stot 840730 in 0.08714795112609863
+Dist 5 cnt 952024 tot 987583 scnt 22782408 stot 23623138 in 2.026483058929443
+Dist 6 cnt 26675317 tot 27662900 scnt 639784436 stot 663407574 in 58.39002799987793
+Dist 7 cnt 748627716 tot 776290616 scnt 17964154272 stot 18627561846 in 1518.325618982315

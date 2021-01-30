@@ -1,0 +1,30 @@
+! out of memory
+ch 0.2 (C) 2020 Tomas Rokicki.
+# ./twsearch -M 120000 -t 8 -F -g symmsamples/starminx.tws
+Created new moves FUR' BFID' LUF' EBFD' LFA' EBRBF' LBLU' EDC' LIBL' ECR' UBLBR' DAC' BFBRBL' FCA' RUBR' IAD' FRC' BFBLI' ERBR' LAI'
+Rotation group size is 60
+State size is about 7.23314 x 10^76 log2 255.321
+Requiring 354 bits 48 bytes per entry; 48 from identity.
+Found 5828 canonical move states.
+Calculated canonical states in 0.0123661
+Using sorting bfs symm and arrays.
+Dist 0 cnt 1 tot 1 scnt 1 stot 1 in 0.0192570686340332
+Dist 1 cnt 2 tot 3 scnt 40 stot 41 in 0.0002138614654541016
+Dist 2 cnt 20 tot 23 scnt 880 stot 921 in 0.0003800392150878906
+Dist 3 cnt 244 tot 267 scnt 14400 stot 15321 in 0.003010988235473633
+Dist 4 cnt 3358 tot 3625 scnt 198080 stot 213401 in 0.03432607650756836
+Dist 5 cnt 40652 tot 44277 scnt 2437424 stot 2650825 in 0.452794075012207
+Dist 6 cnt 463488 tot 507765 scnt 27788320 stot 30439145 in 5.537791967391968
+Dist 7 cnt 4997666 tot 5505431 scnt 299849864 stot 330289009 in 63.86075496673584
+Dist 8 cnt 51752308 tot 57257739 scnt 3104977640 stot 3435266649 in 724.6318459510803
+Dist 9 cnt 519103230 tot 576360969 scnt 31146164970 stot 34581431619 in 6845.470192909241
+Created 2050584461 elements in 5966.857107162476
+to 1172704255 in 902.8831000328064
+Created 2050584461 elements in 2495.894828796387
+to 1545513777 in 818.0145921707153
+Created 2050584461 elements in 1456.690287828445
+to 1773305427 in 774.1166300773621
+Created 2050584461 elements in 798.2754061222076
+to 1895304176 in 720.9923799037933
+Created 2050584461 elements in 449.3594319820404
+to 1960152401 in 688.3279409408569

@@ -1,0 +1,20 @@
+r-31277-50.sh: line 2: 32160 Terminated              ./twsearch -M 15000 -F -g symmsamples/Trajbers_octahedron.tws > Trajbers_octahedron-symm-g3.log
+2 BBULBL' FDBLL2 FDBLL' BBBRRU2 BBBRRU' BBBLDBR2 BBBLDBR' FLUR2 FLUR'
+Rotation group size is 24
+State size is about 1.16649 x 10^23 log2 76.6265
+Requiring 104 bits 16 bytes per entry; 16 from identity.
+Found 7 canonical move states.
+Calculated canonical states in 0.000662088
+Using sorting bfs symm and arrays.
+Dist 0 cnt 1 tot 1 scnt 1 stot 1 in 6.4849853515625e-05
+Dist 1 cnt 3 tot 4 scnt 18 stot 19 in 6.508827209472656e-05
+Dist 2 cnt 15 tot 19 scnt 243 stot 262 in 0.0001130104064941406
+Dist 3 cnt 144 tot 163 scnt 3240 stot 3502 in 0.000431060791015625
+Dist 4 cnt 1845 tot 2008 scnt 43239 stot 46741 in 0.003996849060058594
+Dist 5 cnt 24105 tot 26113 scnt 575256 stot 621997 in 0.04741811752319336
+Dist 6 cnt 318737 tot 344850 scnt 7635142 stot 8257139 in 0.3691699504852295
+Dist 7 cnt 4221636 tot 4566486 scnt 101262054 stot 109519193 in 4.918730020523071
+Dist 8 cnt 55923842 tot 60490328 scnt 1341968521 stot 1451487714 in 81.02436590194702
+Created 922894521 elements in 753.3022570610046
+to 684497742 in 81.47599196434021
+Dist 9 cnt 740611410 tot 801101738 scnt 17773871038 stot 19225358752 in 123.6644999980927

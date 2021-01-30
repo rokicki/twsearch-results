@@ -1,0 +1,21 @@
+r-1513-4.sh: line 2:  1566 Terminated              ./twsearch -M 120000 -t 8 -F -g symmsamples/Christophers_jewel.tws > Christophers_jewel-symm-g6.log
+LBL2 BBULBL' FDBLL2 FDBLL' BBBRRU2 BBBRRU' BBBLDBR2 BBBLDBR' FLUR2 FLUR'
+Rotation group size is 24
+State size is 2893072790716416000 log2 61.3273
+Requiring 83 bits 12 bytes per entry; 12 from identity.
+Found 7 canonical move states.
+Calculated canonical states in 0.000760078
+Using sorting bfs symm and arrays.
+Dist 0 cnt 1 tot 1 scnt 1 stot 1 in 8.606910705566406e-05
+Dist 1 cnt 3 tot 4 scnt 18 stot 19 in 7.390975952148438e-05
+Dist 2 cnt 15 tot 19 scnt 243 stot 262 in 0.0001389980316162109
+Dist 3 cnt 144 tot 163 scnt 3240 stot 3502 in 0.0005130767822265625
+Dist 4 cnt 1827 tot 1990 scnt 42807 stot 46309 in 0.004629850387573242
+Dist 5 cnt 23419 tot 25409 scnt 558680 stot 604989 in 0.02643609046936035
+Dist 6 cnt 301301 tot 326710 scnt 7215925 stot 7820914 in 0.3002729415893555
+Dist 7 cnt 3846658 tot 4173368 scnt 92255254 stot 100076168 in 3.665828943252563
+Dist 8 cnt 48598677 tot 52772045 scnt 1166127030 stot 1266203198 in 47.90775299072266
+Dist 9 cnt 605361813 tot 658133858 scnt 14527739382 stot 15793942580 in 598.7887420654297
+Created 9831799509 elements in 6249.984308958054
+to 6760967287 in 598.0620720386505
+Dist 10 cnt 7382347941 tot 8040481799 scnt 177172634945 stot 192966577525 in 1132.416615009308
