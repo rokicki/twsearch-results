@@ -1,0 +1,18 @@
+# This is twsearch 0.2 (C) 2020 Tomas Rokicki.
+# ./twsearch -M 120000 -t 8 -F -g symmsamples/professor_pyraminx.tws
+Created new moves FRD' 2FRD' 2L' L' FDL' 2FDL' 2R' R' DRL' 2DRL' 2F' F' FLR' 2FLR' 2D' D'
+Rotation group size is 12
+State size is about 2.76893 x 10^33 log2 111.093
+Requiring 165 bits 24 bytes per entry; 24 from identity.
+Found 416 canonical move states.
+Calculated canonical states in 0.00125408
+Using sorting bfs symm and arrays.
+Dist 0 cnt 1 tot 1 scnt 1 stot 1 in 0.001487970352172852
+Dist 1 cnt 8 tot 9 scnt 32 stot 33 in 8.20159912109375e-05
+Dist 2 cnt 74 tot 83 scnt 672 stot 705 in 0.0003437995910644531
+Dist 3 cnt 1076 tot 1159 scnt 12624 stot 13329 in 0.002443075180053711
+Dist 4 cnt 19254 tot 20413 scnt 230528 stot 243857 in 0.01997113227844238
+Dist 5 cnt 347566 tot 367979 scnt 4169544 stot 4413401 in 0.3680858612060547
+Dist 6 cnt 6253752 tot 6621731 scnt 75042552 stot 79455953 in 5.305271148681641
+Dist 7 cnt 112176172 tot 118797903 scnt 1346111752 stot 1425567705 in 95.47917294502258
+Dist 8 cnt 2006744521 tot 2125542424 scnt 24080926159 stot 25506493864 in 1798.946761846542

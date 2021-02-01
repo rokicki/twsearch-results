@@ -1,0 +1,20 @@
+# This is twsearch 0.2 (C) 2020 Tomas Rokicki.
+# ./twsearch -M 240000 -t 8 -F -g symmsamples/master_skewb.tws
+Created new moves DFR' ULB' DLF' UBR' DRB' UFL' DBL' URF'
+Rotation group size is 24
+State size is about 3.03318 x 10^38 log2 127.834
+Requiring 177 bits 24 bytes per entry; 28 from identity.
+Found 9 canonical move states.
+Calculated canonical states in 0.00184703
+Using sorting bfs symm and arrays.
+Dist 0 cnt 1 tot 1 scnt 1 stot 1 in 0.0001330375671386719
+Dist 1 cnt 2 tot 3 scnt 16 stot 17 in 0.0001008510589599609
+Dist 2 cnt 11 tot 14 scnt 208 stot 225 in 0.0001330375671386719
+Dist 3 cnt 112 tot 126 scnt 2688 stot 2913 in 0.00038909912109375
+Dist 4 cnt 1450 tot 1576 scnt 34752 stot 37665 in 0.003413915634155273
+Dist 5 cnt 18710 tot 20286 scnt 449040 stot 486705 in 0.01443195343017578
+Dist 6 cnt 241617 tot 261903 scnt 5798664 stot 6285369 in 0.1453170776367188
+Dist 7 cnt 3117842 tot 3379745 scnt 74828076 stot 81113445 in 2.119277000427246
+Dist 8 cnt 40208831 tot 43588576 scnt 965010638 stot 1046124083 in 22.83564591407776
+Dist 9 cnt 518623160 tot 562211736 scnt 12446952816 stot 13493076899 in 295.0798721313477
+Dist 10 cnt 6693252492 tot 7255464228 scnt 160638050728 stot 174131127627 in 4096.990988969803

@@ -1,0 +1,17 @@
+# This is twsearch 0.2 (C) 2020 Tomas Rokicki.
+# ./twsearch -M 120000 -t 8 -F -g symmsamples/radio_chop.tws
+Created new moves R' K' L' S' G' N' U' D' H' Q' C' M' I' P' O' E' F' B' A' J'
+Rotation group size is 60
+State size is about 5.91857 x 10^115 log2 384.587
+Requiring 527 bits 68 bytes per entry; 68 from identity.
+Found 21 canonical move states.
+Calculated canonical states in 0.00285912
+Using sorting bfs symm and arrays.
+Dist 0 cnt 1 tot 1 scnt 1 stot 1 in 0.0001389980316162109
+Dist 1 cnt 2 tot 3 scnt 40 stot 41 in 0.0001459121704101562
+Dist 2 cnt 27 tot 30 scnt 1480 stot 1521 in 0.00020599365234375
+Dist 3 cnt 866 tot 896 scnt 51960 stot 53481 in 0.001634120941162109
+Dist 4 cnt 28817 tot 29713 scnt 1728399 stot 1781880 in 0.03562784194946289
+Dist 5 cnt 886610 tot 916323 scnt 53193780 stot 54975660 in 1.231965065002441
+Dist 6 cnt 24372116 tot 25288439 scnt 1462318260 stot 1517293920 in 44.15783905982971
+Dist 7 cnt 576541986 tot 601830425 scnt 34592510160 stot 36109804080 in 1044.377076864243

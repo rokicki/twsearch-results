@@ -1,0 +1,18 @@
+# This is twsearch 0.2 (C) 2020 Tomas Rokicki.
+# ./twsearch -M 240000 -t 8 -F -g symmsamples/pyraminx_crystal.tws
+Created new moves U2 U2' U' D2 D2' D' F2 F2' F' BF2 BF2' BF' L2 L2' L' E2 E2' E' BL2 BL2' BL' C2 C2' C' BR2 BR2' BR' A2 A2' A' R2 R2' R' I2 I2' I'
+Rotation group size is 60
+State size is about 1.0067 x 10^68 log2 225.901
+Requiring 308 bits 40 bytes per entry; 40 from identity.
+Found 13 canonical move states.
+Calculated canonical states in 0.00331211
+Using sorting bfs symm and arrays.
+Dist 0 cnt 1 tot 1 scnt 1 stot 1 in 0.0001239776611328125
+Dist 1 cnt 4 tot 5 scnt 48 stot 49 in 0.0002298355102539062
+Dist 2 cnt 42 tot 47 scnt 2016 stot 2065 in 0.0006010532379150391
+Dist 3 cnt 1408 tot 1455 scnt 84480 stot 86545 in 0.004281044006347656
+Dist 4 cnt 58952 tot 60407 scnt 3536640 stot 3623185 in 0.07878899574279785
+Dist 5 cnt 2466108 tot 2526515 scnt 147966240 stot 151589425 in 3.431214094161987
+Dist 6 cnt 103149050 tot 105675565 scnt 6188938140 stot 6340527565 in 151.2595789432526
+Dist 7 cnt 4313723418 tot 4419398983 scnt 258823401480 stot 265163929045 in 5994.636384963989
+Created 1874583531 elements in 1255.560564041138

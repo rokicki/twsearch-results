@@ -1,0 +1,20 @@
+# This is twsearch 0.2 (C) 2020 Tomas Rokicki.
+# ./twsearch -M 240000 -t 8 -F -g symmsamples/Trajbers_octahedron.tws
+Created new moves FRBRD2 FRBRD' BBULBL2 BBULBL' FDBLL2 FDBLL' BBBRRU2 BBBRRU' BBBLDBR2 BBBLDBR' FLUR2 FLUR'
+Rotation group size is 24
+State size is about 1.16649 x 10^23 log2 76.6265
+Requiring 104 bits 16 bytes per entry; 16 from identity.
+Found 7 canonical move states.
+Calculated canonical states in 0.00131297
+Using sorting bfs symm and arrays.
+Dist 0 cnt 1 tot 1 scnt 1 stot 1 in 0.0001139640808105469
+Dist 1 cnt 3 tot 4 scnt 18 stot 19 in 0.0001220703125
+Dist 2 cnt 15 tot 19 scnt 243 stot 262 in 0.0002238750457763672
+Dist 3 cnt 144 tot 163 scnt 3240 stot 3502 in 0.0008101463317871094
+Dist 4 cnt 1845 tot 2008 scnt 43239 stot 46741 in 0.006868839263916016
+Dist 5 cnt 24105 tot 26113 scnt 575256 stot 621997 in 0.06494498252868652
+Dist 6 cnt 318737 tot 344850 scnt 7635142 stot 8257139 in 0.6249752044677734
+Dist 7 cnt 4221636 tot 4566486 scnt 101262054 stot 109519193 in 4.146132946014404
+Dist 8 cnt 55923842 tot 60490328 scnt 1341968521 stot 1451487714 in 55.33258104324341
+Dist 9 cnt 740611410 tot 801101738 scnt 17773871038 stot 19225358752 in 739.2480399608612
+Dist 10 cnt 9803821236 tot 10604922974 scnt 235288529551 stot 254513888303 in 10201.01963686943

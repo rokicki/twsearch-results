@@ -1,22 +1,21 @@
-! out of memory
-ch 0.2 (C) 2020 Tomas Rokicki.
+# This is twsearch 0.2 (C) 2020 Tomas Rokicki.
 # ./twsearch -M 60000 -t 8 -F -g symmsamples/chopasaurus.tws
 Created new moves FUR' BFID' LUF' EBFD' LFA' EBRBF' LBLU' EDC' LIBL' ECR' UBLBR' DAC' BFBRBL' FCA' RUBR' IAD' FRC' BFBLI' ERBR' LAI'
 Rotation group size is 60
 State size is about 9.4804 x 10^92 log2 308.862
 Requiring 416 bits 52 bytes per entry; 68 from identity.
 Found 21 canonical move states.
-Calculated canonical states in 0.00272202
+Calculated canonical states in 0.00273013
 Using sorting bfs symm and arrays.
-Dist 0 cnt 1 tot 1 scnt 1 stot 1 in 9.393692016601562e-05
-Dist 1 cnt 2 tot 3 scnt 40 stot 41 in 0.0001010894775390625
-Dist 2 cnt 27 tot 30 scnt 1480 stot 1521 in 0.0001399517059326172
-Dist 3 cnt 866 tot 896 scnt 51960 stot 53481 in 0.001138925552368164
-Dist 4 cnt 28817 tot 29713 scnt 1728399 stot 1781880 in 0.03440713882446289
-Dist 5 cnt 886610 tot 916323 scnt 53193780 stot 54975660 in 1.347702026367188
-Dist 6 cnt 24372116 tot 25288439 scnt 1462318260 stot 1517293920 in 47.73644685745239
-Dist 7 cnt 576541986 tot 601830425 scnt 34592510160 stot 36109804080 in 1057.855116128922
-Created 608981281 elements in 447.9501469135284
-to 538821141 in 265.9377491474152
-Created 608981281 elements in 47.54144382476807
-to 600001282 in 196.9309620857239
+Dist 0 cnt 1 tot 1 scnt 1 stot 1 in 9.799003601074219e-05
+Dist 1 cnt 2 tot 3 scnt 40 stot 41 in 0.0001020431518554688
+Dist 2 cnt 27 tot 30 scnt 1480 stot 1521 in 0.0001418590545654297
+Dist 3 cnt 866 tot 896 scnt 51960 stot 53481 in 0.001137018203735352
+Dist 4 cnt 28817 tot 29713 scnt 1728399 stot 1781880 in 0.03416609764099121
+Dist 5 cnt 886610 tot 916323 scnt 53193780 stot 54975660 in 1.320961952209473
+Dist 6 cnt 24372116 tot 25288439 scnt 1462318260 stot 1517293920 in 47.43944311141968
+Dist 7 cnt 576541986 tot 601830425 scnt 34592510160 stot 36109804080 in 1101.420199871063
+Created 608981281 elements in 417.3795480728149
+to 538821141 in 238.7290990352631
+Created 608981281 elements in 47.49378800392151
+to 600001282 in 186.773530960083

@@ -1,21 +1,26 @@
-r-2416-3.sh: line 2:  3762 Terminated              ./twsearch -M 240000 -t 8 -F -g symmsamples/kilominx.tws > kilominx-symm-g7.log
-U' D2 D2' D' F2 F2' F' BF2 BF2' BF' L2 L2' L' E2 E2' E' BL2 BL2' BL' C2 C2' C' BR2 BR2' BR' A2 A2' A' R2 R2' R' I2 I2' I'
+# This is twsearch 0.2 (C) 2020 Tomas Rokicki.
+# ./twsearch -M 240000 -t 8 -F -g symmsamples/kilominx.tws
+Created new moves U2 U2' U' D2 D2' D' F2 F2' F' BF2 BF2' BF' L2 L2' L' E2 E2' E' BL2 BL2' BL' C2 C2' C' BR2 BR2' BR' A2 A2' A' R2 R2' R' I2 I2' I'
 Rotation group size is 60
 State size is about 1.41383 x 10^27 log2 90.1917
 Requiring 134 bits 20 bytes per entry; 20 from identity.
 Found 69 canonical move states.
-Calculated canonical states in 0.00489616
+Calculated canonical states in 0.00496101
 Using sorting bfs symm and arrays.
-Dist 0 cnt 1 tot 1 scnt 1 stot 1 in 0.0007839202880859375
-Dist 1 cnt 4 tot 5 scnt 48 stot 49 in 0.0003139972686767578
-Dist 2 cnt 36 tot 41 scnt 1536 stot 1585 in 0.0007700920104980469
-Dist 3 cnt 728 tot 769 scnt 43520 stot 45105 in 0.004081010818481445
-Dist 4 cnt 19728 tot 20497 scnt 1180800 stot 1225905 in 0.02840900421142578
-Dist 5 cnt 524518 tot 545015 scnt 31471080 stot 32696985 in 0.9689109325408936
-Dist 6 cnt 13869471 tot 14414486 scnt 832130600 stot 864827585 in 15.11405110359192
-Dist 7 cnt 365321680 tot 379736166 scnt 21919295334 stot 22784122919 in 377.224408864975
-Created 12203720848 elements in 5961.312988996506
-to 7688589256 in 885.1485171318054
-Created 12203720848 elements in 2238.441101789474
-to 9397981139 in 819.5788471698761
-Dist 8 cnt 9604322253 tot 9984058419 scnt 576258821932 stot 599042944851 in 1277.906379938126
+Dist 0 cnt 1 tot 1 scnt 1 stot 1 in 0.0007979869842529297
+Dist 1 cnt 4 tot 5 scnt 48 stot 49 in 0.0003058910369873047
+Dist 2 cnt 36 tot 41 scnt 1536 stot 1585 in 0.0007631778717041016
+Dist 3 cnt 728 tot 769 scnt 43520 stot 45105 in 0.005087852478027344
+Dist 4 cnt 19728 tot 20497 scnt 1180800 stot 1225905 in 0.02918004989624023
+Dist 5 cnt 524518 tot 545015 scnt 31471080 stot 32696985 in 0.6227738857269287
+Dist 6 cnt 13869471 tot 14414486 scnt 832130600 stot 864827585 in 15.30278921127319
+Dist 7 cnt 365321680 tot 379736166 scnt 21919295334 stot 22784122919 in 378.310674905777
+Created 12203720848 elements in 5955.772110939026
+to 7688589256 in 884.6648261547089
+Created 12203720848 elements in 2230.928333997726
+to 9397981139 in 841.2243068218231
+Dist 8 cnt 9604322253 tot 9984058419 scnt 576258821932 stot 599042944851 in 1288.162877082825
+Created 2613268066 elements in 1160.190989971161
+to 2161948357 in 246.0004811286926
+Created 2613268066 elements in 190.9827167987823
+to 2528918282 in 253.5242850780487
