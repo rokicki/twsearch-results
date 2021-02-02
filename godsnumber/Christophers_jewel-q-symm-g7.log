@@ -1,0 +1,25 @@
+# This is twsearch 0.2 (C) 2020 Tomas Rokicki.
+# ./twsearch -q -M 245000 -t 1 -F -g qsymmsamples/Christophers_jewel.tws
+Created new moves FRBRD2 FRBRD' BBULBL2 BBULBL' FDBLL2 FDBLL' BBBRRU2 BBBRRU' BBBLDBR2 BBBLDBR' FLUR2 FLUR'
+Rotation group size is 24
+State size is 2893072790716416000 log2 61.3273
+Requiring 83 bits 12 bytes per entry; 12 from identity.
+For quarter turn, rewrote bases to 13
+Found 19 canonical move states.
+Calculated canonical states in 0.000408888
+Using sorting bfs symm and arrays.
+Dist 0 cnt 1 tot 1 scnt 1 stot 1 in 6.318092346191406e-05
+Dist 1 cnt 2 tot 3 scnt 12 stot 13 in 2.789497375488281e-05
+Dist 2 cnt 8 tot 11 scnt 114 stot 127 in 3.790855407714844e-05
+Dist 3 cnt 50 tot 61 scnt 1068 stot 1195 in 9.417533874511719e-05
+Dist 4 cnt 425 tot 486 scnt 9819 stot 11014 in 0.0006618499755859375
+Dist 5 cnt 3772 tot 4258 scnt 89392 stot 100406 in 0.006313085556030273
+Dist 6 cnt 33777 tot 38035 scnt 807000 stot 907406 in 0.03987407684326172
+Dist 7 cnt 301790 tot 339825 scnt 7231464 stot 8138870 in 0.4954578876495361
+Dist 8 cnt 2682847 tot 3022672 scnt 64352783 stot 72491653 in 2.791523933410645
+Dist 9 cnt 23695992 tot 26718664 scnt 568598608 stot 641090261 in 25.50919008255005
+Dist 10 cnt 207624131 tot 234342795 scnt 4982643166 stot 5623733427 in 232.0153279304504
+Dist 11 cnt 1800291672 tot 2034634467 scnt 43205992548 stot 48829725975 in 2103.682223081589
+Created 19400510862 elements in 12388.36378097534
+to 14110317929 in 4432.28711605072
+Dist 12 cnt 15372809812 tot 17407444279 scnt 368944227605 stot 417773953580 in 4563.347300052643
