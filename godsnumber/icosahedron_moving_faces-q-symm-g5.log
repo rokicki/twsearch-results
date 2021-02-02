@@ -1,0 +1,26 @@
+# This is twsearch 0.2 (C) 2020 Tomas Rokicki.
+# ./twsearch -q -M 60000 -t 8 -F -g symmsamples/icosahedron_moving_faces.tws
+Created new moves ERFUG2 ERFUG2' ERFUG' ONDBK2 ONDBK2' ONDBK' EIHCR2 EIHCR2' EIHCR' OKMQP2 OKMQP2' OKMQP' LFRCA2 LFRCA2' LFRCA' SJMKB2 SJMKB2' SJMKB' LANOP2 LANOP2' LANOP' SIEGJ2 SIEGJ2' SIEGJ' LPQUF2 LPQUF2' LPQUF' SBDHI2 SBDHI2' SBDHI' UQMJG2 UQMJG2' UQMJG' DNACH2 DNACH2' DNACH'
+Rotation group size is 60
+State size is about 5.06456 x 10^75 log2 251.485
+Requiring 350 bits 44 bytes per entry; 44 from identity.
+For quarter turn, rewrote bases to 25
+Found 657 canonical move states.
+Calculated canonical states in 0.0111198
+Using sorting bfs symm and arrays.
+Dist 0 cnt 1 tot 1 scnt 1 stot 1 in 0.006541967391967773
+Dist 1 cnt 2 tot 3 scnt 24 stot 25 in 0.0002970695495605469
+Dist 2 cnt 12 tot 15 scnt 408 stot 433 in 0.0004870891571044922
+Dist 3 cnt 108 tot 123 scnt 6208 stot 6641 in 0.0022430419921875
+Dist 4 cnt 1518 tot 1641 scnt 90144 stot 96785 in 0.0175478458404541
+Dist 5 cnt 21336 tot 22977 scnt 1280160 stot 1376945 in 0.1596541404724121
+Dist 6 cnt 299697 tot 322674 scnt 17975460 stot 19352405 in 1.368484020233154
+Dist 7 cnt 4181116 tot 4503790 scnt 250866864 stot 270219269 in 19.03216290473938
+Dist 8 cnt 58150699 tot 62654489 scnt 3488994504 stot 3759213773 in 269.2549960613251
+Created 1367544547 elements in 2987.201644897461
+to 798712641 in 598.5010890960693
+Dist 9 cnt 807073846 tot 869728335 scnt 48424427862 stot 52183641635 in 842.6953799724579
+Created 564651817 elements in 1314.361986875534
+to 497277910 in 673.6784670352936
+Created 564651817 elements in 163.2657520771027
+to 552097615 in 221.1733980178833

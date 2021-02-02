@@ -1,0 +1,20 @@
+# This is twsearch 0.2 (C) 2020 Tomas Rokicki.
+# ./twsearch -q -M 60000 -t 8 -F -g symmsamples/megaminx.tws
+Created new moves U2 U2' U' D2 D2' D' F2 F2' F' BF2 BF2' BF' L2 L2' L' E2 E2' E' BL2 BL2' BL' C2 C2' C' BR2 BR2' BR' A2 A2' A' R2 R2' R' I2 I2' I'
+Rotation group size is 60
+State size is about 1.0067 x 10^68 log2 225.901
+Requiring 308 bits 40 bytes per entry; 40 from identity.
+For quarter turn, rewrote bases to 25
+Found 657 canonical move states.
+Calculated canonical states in 0.0131991
+Using sorting bfs symm and arrays.
+Dist 0 cnt 1 tot 1 scnt 1 stot 1 in 0.007035970687866211
+Dist 1 cnt 2 tot 3 scnt 24 stot 25 in 0.0002570152282714844
+Dist 2 cnt 12 tot 15 scnt 408 stot 433 in 0.0003728866577148438
+Dist 3 cnt 108 tot 123 scnt 6208 stot 6641 in 0.001460075378417969
+Dist 4 cnt 1518 tot 1641 scnt 90144 stot 96785 in 0.009654998779296875
+Dist 5 cnt 21336 tot 22977 scnt 1280160 stot 1376945 in 0.0943598747253418
+Dist 6 cnt 299697 tot 322674 scnt 17975460 stot 19352405 in 0.6980230808258057
+Dist 7 cnt 4181186 tot 4503860 scnt 250871064 stot 270223469 in 9.218208074569702
+Dist 8 cnt 58154799 tot 62658659 scnt 3489240564 stot 3759464033 in 131.077574968338
+Dist 9 cnt 807213614 tot 869872273 scnt 48432813942 stot 52192277975 in 1651.244817018509

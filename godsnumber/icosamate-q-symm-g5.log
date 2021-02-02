@@ -1,0 +1,20 @@
+# This is twsearch 0.2 (C) 2020 Tomas Rokicki.
+# ./twsearch -q -M 120000 -t 1 -F -g qsymmsamples/icosamate.tws
+Created new moves ERFUG2 ERFUG2' ERFUG' ONDBK2 ONDBK2' ONDBK' EIHCR2 EIHCR2' EIHCR' OKMQP2 OKMQP2' OKMQP' LFRCA2 LFRCA2' LFRCA' SJMKB2 SJMKB2' SJMKB' LANOP2 LANOP2' LANOP' SIEGJ2 SIEGJ2' SIEGJ' LPQUF2 LPQUF2' LPQUF' SBDHI2 SBDHI2' SBDHI' UQMJG2 UQMJG2' UQMJG' DNACH2 DNACH2' DNACH'
+Rotation group size is 60
+State size is about 7.11282 x 10^34 log2 115.776
+Requiring 176 bits 24 bytes per entry; 24 from identity.
+For quarter turn, rewrote bases to 25
+Found 49 canonical move states.
+Calculated canonical states in 0.00184798
+Using sorting bfs symm and arrays.
+Dist 0 cnt 1 tot 1 scnt 1 stot 1 in 0.0001981258392333984
+Dist 1 cnt 2 tot 3 scnt 24 stot 25 in 6.389617919921875e-05
+Dist 2 cnt 13 tot 16 scnt 528 stot 553 in 8.20159912109375e-05
+Dist 3 cnt 184 tot 200 scnt 10548 stot 11101 in 0.000286102294921875
+Dist 4 cnt 3244 tot 3444 scnt 193964 stot 205065 in 0.003614902496337891
+Dist 5 cnt 55106 tot 58550 scnt 3303360 stot 3508425 in 0.0579071044921875
+Dist 6 cnt 875991 tot 934541 scnt 52545945 stot 56054370 in 1.240348815917969
+Dist 7 cnt 13058448 tot 13992989 scnt 783441600 stot 839495970 in 13.72515606880188
+Dist 8 cnt 180431904 tot 194424893 scnt 10825655190 stot 11665151160 in 200.9173328876495
+Dist 9 cnt 2272683163 tot 2467108056 scnt 136360068510 stot 148025219670 in 2808.277525186539

@@ -1,0 +1,19 @@
+# This is twsearch 0.2 (C) 2020 Tomas Rokicki.
+# ./twsearch -q -M 120000 -t 1 -F -g qsymmsamples/starminx_2.tws
+Created new moves U2 U2' U' D2 D2' D' F2 F2' F' BF2 BF2' BF' L2 L2' L' E2 E2' E' BL2 BL2' BL' C2 C2' C' BR2 BR2' BR' A2 A2' A' R2 R2' R' I2 I2' I'
+Rotation group size is 60
+State size is about 1.5915 x 10^106 log2 352.795
+Requiring 455 bits 60 bytes per entry; 72 from identity.
+For quarter turn, rewrote bases to 25
+Found 49 canonical move states.
+Calculated canonical states in 0.00340915
+Using sorting bfs symm and arrays.
+Dist 0 cnt 1 tot 1 scnt 1 stot 1 in 0.0002210140228271484
+Dist 1 cnt 2 tot 3 scnt 24 stot 25 in 9.989738464355469e-05
+Dist 2 cnt 13 tot 16 scnt 528 stot 553 in 0.0001420974731445312
+Dist 3 cnt 196 tot 212 scnt 11568 stot 12121 in 0.0005600452423095703
+Dist 4 cnt 4229 tot 4441 scnt 253464 stot 265585 in 0.006510019302368164
+Dist 5 cnt 92552 tot 96993 scnt 5553040 stot 5818625 in 0.1302909851074219
+Dist 6 cnt 2027589 tot 2124582 scnt 121654680 stot 127473305 in 3.12028694152832
+Dist 7 cnt 44419136 tot 46543718 scnt 2665148160 stot 2792621465 in 66.13610792160034
+Dist 8 cnt 973107876 tot 1019651594 scnt 58386467340 stot 61179088805 in 1303.724184989929

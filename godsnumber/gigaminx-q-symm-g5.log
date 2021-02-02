@@ -1,0 +1,20 @@
+# This is twsearch 0.2 (C) 2020 Tomas Rokicki.
+# ./twsearch -q -M 120000 -t 1 -F -g qsymmsamples/gigaminx.tws
+Created new moves U2 U2' U' 2U2 2U2' 2U' 2D2 2D2' 2D' D2 D2' D' F2 F2' F' 2F2 2F2' 2F' 2BF2 2BF2' 2BF' BF2 BF2' BF' L2 L2' L' 2L2 2L2' 2L' 2E2 2E2' 2E' E2 E2' E' BL2 BL2' BL' 2BL2 2BL2' 2BL' 2C2 2C2' 2C' C2 C2' C' BR2 BR2' BR' 2BR2 2BR2' 2BR' 2A2 2A2' 2A' A2 A2' A' R2 R2' R' 2R2 2R2' 2R' 2I2 2I2' 2I' I2 I2' I'
+Rotation group size is 60
+State size is about 8.73675 x 10^271 log2 903.37
+Requiring 1178 bits 148 bytes per entry; 180 from identity.
+For quarter turn, rewrote bases to 49
+Found 3809 canonical move states.
+Calculated canonical states in 0.0241191
+Using sorting bfs symm and arrays.
+Dist 0 cnt 1 tot 1 scnt 1 stot 1 in 0.02069282531738281
+Dist 1 cnt 4 tot 5 scnt 48 stot 49 in 0.0004851818084716797
+Dist 2 cnt 44 tot 49 scnt 1632 stot 1681 in 0.001337051391601562
+Dist 3 cnt 864 tot 913 scnt 49760 stot 51441 in 0.01052188873291016
+Dist 4 cnt 24308 tot 25221 scnt 1451856 stot 1503297 in 0.1827058792114258
+Dist 5 cnt 692092 tot 717313 scnt 41521600 stot 43024897 in 4.591406106948853
+Dist 6 cnt 19602134 tot 20319447 scnt 1176075708 stot 1219100605 in 132.1825671195984
+Created 829902529 elements in 2536.148404836655
+to 513341894 in 593.4424390792847
+Dist 7 cnt 552512412 tot 572831859 scnt 33150742896 stot 34369843501 in 774.2517199516296

@@ -1,0 +1,22 @@
+# This is twsearch 0.2 (C) 2020 Tomas Rokicki.
+# ./twsearch -q -M 120000 -t 1 -F -g qsymmsamples/7x7x7.tws
+Created new moves F2 F' 2F2 2F' 3F2 3F' 3B2 3B' 2B2 2B' B2 B' D2 D' 2D2 2D' 3D2 3D' 3U2 3U' 2U2 2U' U2 U' L2 L' 2L2 2L' 3L2 3L' 3R2 3R' 2R2 2R' R2 R'
+Rotation group size is 24
+State size is about 2.80808 x 10^163 log2 542.964
+Requiring 750 bits 96 bytes per entry; 132 from identity.
+For quarter turn, rewrote bases to 37
+Found 55 canonical move states.
+Calculated canonical states in 0.00353408
+Using sorting bfs symm and arrays.
+Dist 0 cnt 1 tot 1 scnt 1 stot 1 in 0.0003340244293212891
+Dist 1 cnt 6 tot 7 scnt 36 stot 37 in 0.0003058910369873047
+Dist 2 cnt 72 tot 79 scnt 1062 stot 1099 in 0.00132298469543457
+Dist 3 cnt 1406 tot 1485 scnt 30900 stot 31999 in 0.01050496101379395
+Dist 4 cnt 37983 tot 39468 scnt 896805 stot 928804 in 0.1236631870269775
+Dist 5 cnt 1086984 tot 1126452 scnt 25995032 stot 26923836 in 3.185073852539062
+Dist 6 cnt 31404055 tot 32530507 scnt 753067320 stot 779991156 in 93.27485108375549
+Dist 7 cnt 908905010 tot 941435517 scnt 21809244456 stot 22589235612 in 2469.87121796608
+Created 370410934 elements in 553.3779308795929
+to 340591064 in 221.6521379947662
+Created 370410934 elements in 41.67333912849426
+to 368103956 in 199.9888570308685
