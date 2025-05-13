@@ -1,41 +1,103 @@
-# This is twsearch 0.2 (C) 2020 Tomas Rokicki.
-# ./twsearch -M 250000 -g moonspinner.tws
-Created new moves O2 O2' O'
+# This is twsearch v0.7.1-93-gfe910f3 (C) 2022 Tomas Rokicki.
+# build/bin/twsearch -M 30000 -g samples/main/moonspinner.tws
 State size is 47151720000 log2 35.4566
 Requiring 49 bits 8 bytes per entry; 12 from identity.
 Found 3 canonical move states.
-Calculated canonical states in 0.000289917
-Using canonical sequences and arrays.
-Dist 0 cnt 1 tot 1 in 0.0001261234283447266
-Dist 1 cnt 5 tot 6 in 2.193450927734375e-05
-Dist 2 cnt 8 tot 14 in 1.811981201171875e-05
-Dist 3 cnt 20 tot 34 in 2.789497375488281e-05
-Dist 4 cnt 32 tot 66 in 3.290176391601562e-05
-Dist 5 cnt 80 tot 146 in 5.7220458984375e-05
-Dist 6 cnt 127 tot 273 in 9.393692016601562e-05
-Dist 7 cnt 315 tot 588 in 0.0002160072326660156
-Dist 8 cnt 504 tot 1092 in 0.0003688335418701172
-Dist 9 cnt 1255 tot 2347 in 0.000885009765625
-Dist 10 cnt 2011 tot 4358 in 0.001532077789306641
-Dist 11 cnt 5005 tot 9363 in 0.003348112106323242
-Dist 12 cnt 8023 tot 17386 in 0.003813982009887695
-Dist 13 cnt 19965 tot 37351 in 0.004696846008300781
-Dist 14 cnt 32006 tot 69357 in 0.008059024810791016
-Dist 15 cnt 79555 tot 148912 in 0.01868414878845215
-Dist 16 cnt 127505 tot 276417 in 0.03556180000305176
-Dist 17 cnt 316657 tot 593074 in 0.08112907409667969
-Dist 18 cnt 507655 tot 1100729 in 0.272468090057373
-Dist 19 cnt 1259316 tot 2360045 in 0.2760169506072998
-Dist 20 cnt 2018430 tot 4378475 in 0.4624168872833252
-Dist 21 cnt 5001586 tot 9380061 in 1.0661301612854
-Dist 22 cnt 8015115 tot 17395176 in 1.907896995544434
-Dist 23 cnt 19830132 tot 37225308 in 4.995980978012085
-Dist 24 cnt 31751747 tot 68977055 in 7.902888059616089
-Dist 25 cnt 78324333 tot 147301388 in 18.21623396873474
-Dist 26 cnt 125089092 tot 272390480 in 31.44430899620056
-Dist 27 cnt 306377668 tot 578768148 in 71.94546389579773
-Dist 28 cnt 485154423 tot 1063922571 in 127.2561230659485
-Dist 29 cnt 1164117971 tot 2228040542 in 297.2183480262756
-Dist 30 cnt 1789842613 tot 4017883155 in 521.0937750339508
-Dist 31 cnt 4023462865 tot 8041346020 in 1216.020103931427
-Dist 32 cnt 5583189831 tot 13624535851 in 2135.058736085892
+Calculated canonical states in 4.22001e-05
+Using twobit arrays and separate setdefs
+Freeing earlier work in 8.82149e-06
+Calculating move table for setdef LARGE lp 1
+At dist 0 see 1
+At dist 1 see 5
+At dist 2 see 8
+At dist 3 see 20
+At dist 4 see 30
+At dist 5 see 68
+At dist 6 see 88
+At dist 7 see 121
+At dist 8 see 19
+Saw 360 required 3784 bytes in 9.799e-05
+Move table built in 6.10352e-05
+Freeing earlier work in 9.53674e-07
+Calculating move table for setdef PENT lp 1
+At dist 0 see 1
+At dist 1 see 5
+At dist 2 see 8
+At dist 3 see 20
+At dist 4 see 32
+At dist 5 see 80
+At dist 6 see 118
+At dist 7 see 182
+At dist 8 see 118
+At dist 9 see 63
+At dist 10 see 3
+Saw 630 required 5424 bytes in 0.000161171
+Move table built in 0.000108957
+Freeing earlier work in 9.53674e-07
+Calculating move table for setdef TINY lp 1
+At dist 0 see 1
+At dist 1 see 5
+At dist 2 see 8
+At dist 3 see 20
+At dist 4 see 32
+At dist 5 see 80
+At dist 6 see 126
+At dist 7 see 311
+At dist 8 see 481
+At dist 9 see 1139
+At dist 10 see 1766
+At dist 11 see 4133
+At dist 12 see 6169
+At dist 13 see 13336
+At dist 14 see 18481
+At dist 15 see 34538
+At dist 16 see 37678
+At dist 17 see 46725
+At dist 18 see 27472
+At dist 19 see 13613
+At dist 20 see 1697
+At dist 21 see 89
+Saw 207900 required 1594616 bytes in 0.069726
+Move table built in 0.050303
+Freeing earlier work in 9.20296e-05
+Dist 0 1 1 in 0.000175953
+Dist 1 5 6 in 1.2596
+Dist 2 8 14 in 0.698746
+Dist 3 20 34 in 0.521368
+Dist 4 32 66 in 0.523208
+Dist 5 80 146 in 0.521522
+Dist 6 127 273 in 0.521892
+Dist 7 315 588 in 0.528661
+Dist 8 504 1092 in 0.522791
+Dist 9 1255 2347 in 0.58683
+Dist 10 2011 4358 in 0.523893
+Dist 11 5005 9363 in 0.526115
+Dist 12 8023 17386 in 0.53237
+Dist 13 19965 37351 in 0.536158
+Dist 14 32006 69357 in 0.538727
+Dist 15 79555 148912 in 0.560859
+Dist 16 127505 276417 in 0.602458
+Dist 17 316657 593074 in 0.63405
+Dist 18 507655 1100729 in 0.723878
+Dist 19 1259316 2360045 in 0.759409
+Dist 20 2018430 4378475 in 0.874752
+Dist 21 5001586 9380061 in 1.01356
+Dist 22 8015115 17395176 in 1.41649
+Dist 23 19830132 37225308 in 1.78569
+Dist 24 31751747 68977055 in 2.68092
+Dist 25 78324333 147301388 in 3.52816
+Dist 26 125089092 272390480 in 4.58871
+Dist 27 306377668 578768148 in 5.72862
+Dist 28 485154423 1063922571 in 7.71006
+Dist 29 1164117971 2228040542 in 13.2279
+Dist 30 1789842613 4017883155 in 22.5822
+Dist 31 4023462865 8041346020 in 38.0535
+Dist 32 5583189831 13624535851 in 54.6861
+Dist 33 10164926303 23789462154 in 86.6959
+Dist 34 9993263671 33782725825 in 123.691
+Dist 35 9562092251 43344818076 in 135.399
+Dist 36 3235401496 46580219572 in 43.6548
+Dist 37 561612418 47141831990 in 13.394
+Dist 38 9863282 47151695272 in 1.58999
+Dist 39 24728 47151720000 in 0.641082
+Twsearch finished.
