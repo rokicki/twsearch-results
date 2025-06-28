@@ -1,0 +1,48 @@
+# This is twsearch  (C) 2022 Tomas Rokicki.
+# build/bin/twsearch -t 40 -F -M 1000000 -g samples/main/squareone.tws
+State size is about 3.07762 x 10^19 log2 64.7384
+Requiring 116 bits 16 bytes per entry; 16 from identity.
+Found 4 canonical move states.
+Calculated canonical states in 0.000247002
+Using sorting bfs and arrays.
+Dist 0 cnt 1 tot 1 in 8.10623e-05
+Dist 1 cnt 15 tot 16 in 0.0028379
+Dist 2 cnt 69 tot 85 in 0.00229621
+Dist 3 cnt 212 tot 297 in 0.00265193
+Dist 4 cnt 1141 tot 1438 in 0.00232196
+Dist 5 cnt 3933 tot 5371 in 0.0030601
+Dist 6 cnt 14029 tot 19400 in 0.0071249
+Dist 7 cnt 44188 tot 63588 in 0.0209551
+Dist 8 cnt 138952 tot 202540 in 0.0235999
+Dist 9 cnt 446720 tot 649260 in 0.055418
+Dist 10 cnt 1316172 tot 1965432 in 0.153884
+Dist 11 cnt 4175446 tot 6140878 in 0.447117
+Dist 12 cnt 12147472 tot 18288350 in 1.39664
+Dist 13 cnt 37884628 tot 56172978 in 4.60039
+Dist 14 cnt 109466234 tot 165639212 in 14.2132
+Dist 15 cnt 332879292 tot 498518504 in 40.6757
+Dist 16 cnt 956379612 tot 1454898116 in 128.819
+Dist 17 cnt 2830921668 tot 4285819784 in 410.937
+Dist 18 cnt 8002926230 tot 12288746014 in 1225.76
+Created 54702152086 elements in 1539.11
+to 16192413006 in 1876.06
+Dist 19 cnt 22662798296 tot 34951544310 in 1907.94
+Created 34870275460 elements in 217.487
+to 11729826032 in 1465.53
+Created 34870275453 elements in 138.657
+to 18625459265 in 1497.35
+Created 34870275465 elements in 98.8832
+to 23073423332 in 1479.73
+Created 34870275460 elements in 70.5421
+to 26194813491 in 1471.53
+Created 34870275454 elements in 51.8071
+to 28549087799 in 1469.71
+Created 34870275457 elements in 37.6605
+to 30471750039 in 1438.74
+Created 34870275452 elements in 26.2971
+to 31764818938 in 1420.88
+Created 34870275459 elements in 18.3816
+to 32625276701 in 1421.08
+Created 34870275458 elements in 13.2453
+to 33243769040 in 1399.41
+! out of memory
