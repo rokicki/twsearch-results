@@ -1,0 +1,66 @@
+# This is twsearch  (C) 2022 Tomas Rokicki.
+# build/bin/twsearch -t 40 -M 1000000 -g compy2.tws
+Requiring 108 bits 16 bytes per entry; 16 from identity.
+Rotation group size is 24
+State size is about 9.34243 x 10^22 log2 76.3062
+Found 35 canonical move states.
+Calculated canonical states in 0.000636101
+Using twobit arrays and separate setdefs
+Freeing earlier work in 0.000150919
+Calculating move table for setdef CENTERS lp 1
+At dist 0 see 1
+Saw 1 required 68 bytes in 2.5034e-05
+Move table built in 6.91414e-06
+Freeing earlier work in 3.09944e-06
+Calculating move table for setdef EDGES lp 2
+At dist 0 see 1
+At dist 1 see 16
+At dist 2 see 160
+At dist 3 see 1408
+At dist 4 see 11712
+At dist 5 see 90912
+At dist 6 see 644756
+At dist 7 see 4070826
+At dist 8 see 21433009
+At dist 9 see 76410122
+At dist 10 see 109897795
+At dist 11 see 26611502
+At dist 12 see 328215
+At dist 13 see 366
+Saw 239500800 required 15767403496 bytes in 359.477
+Move table built in 1289.33
+Freeing earlier work in 0.0555351
+Calculating move table for setdef CORNERS lp 2
+At dist 0 see 1
+At dist 1 see 16
+At dist 2 see 112
+At dist 3 see 448
+At dist 4 see 1120
+At dist 5 see 1792
+At dist 6 see 1792
+At dist 7 see 1024
+At dist 8 see 256
+Saw 6561 required 271624 bytes in 0.0143409
+Move table built in 0.00847006
+Freeing earlier work in 1.19209e-05
+Dist 0 1 1 in 4.1008e-05
+Dist 1 16 17 in 52.6412
+Dist 2 160 177 in 52.3053
+Dist 3 1408 1585 in 52.309
+Dist 4 11808 13393 in 52.3414
+Dist 5 95712 109105 in 52.3893
+Dist 6 754732 863837 in 53.0165
+Dist 7 5793810 6657647 in 57.1414
+Dist 8 43183952 49841599 in 78.6038
+Dist 9 310137312 359978911 in 160.507
+Dist 10 2115556475 2475535386 in 315.764
+Dist 11 13329858542 15805393928 in 737.577
+Dist 12 72848819814 88654213742 in 2766.33
+Dist 13 298247080974 386901294716 in 8513.21
+Dist 14 671767938009 1058669232725 in 18153.9
+Dist 15 473215625205 1531884857930 in 12309
+Dist 16 39395024521 1571279882451 in 1296.17
+Dist 17 84824763 1571364707214 in 71.2843
+Dist 18 41254 1571364748468 in 64.3626
+Dist 19 332 1571364748800 in 63.6618
+Twsearch finished.
