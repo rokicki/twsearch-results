@@ -1,0 +1,16 @@
+# This is twsearch  (C) 2022 Tomas Rokicki.
+# build/bin/twsearch -M 1500000 -F -g samples/symm/9x9x9.tws
+Requiring 1279 bits 160 bytes per entry; 232 from identity.
+Rotation group size is 24
+State size is about 2.04054 x 10^280 log2 931.169
+Found 25 canonical move states.
+Calculated canonical states in 0.00936508
+Using sorting bfs symm and arrays.
+Dist 0 cnt 1 tot 1 scnt 1 stot 1 in 0.000468969
+Dist 1 cnt 12 tot 13 scnt 72 stot 73 in 0.005059
+Dist 2 cnt 276 tot 289 scnt 4212 stot 4285 in 0.00513387
+Dist 3 cnt 10836 tot 11125 scnt 242784 stot 247069 in 0.0193951
+Dist 4 cnt 587016 tot 598141 scnt 13950471 stot 14197540 in 0.694883
+Dist 5 cnt 33406047 tot 34004188 scnt 800297634 stot 814495174 in 50.5802
+Dist 6 cnt 1912557320 tot 1946561508 scnt 45884966437 stot 46699461611 in 3603.22
+Created 7884436608 elements in 1028.71
