@@ -1,0 +1,31 @@
+# This is twsearch  (C) 2022 Tomas Rokicki.
+# build/bin/twsearch -t 40 -M 1500000 -g -F samples/symm/curvy_copter.tws
+Requiring 161 bits 24 bytes per entry; 28 from identity.
+Rotation group size is 24
+State size is about 5.617 x 10^35 log2 118.757
+Found 108 canonical move states.
+Calculated canonical states in 0.00141001
+Using sorting bfs symm and arrays.
+Dist 0 cnt 1 tot 1 scnt 1 stot 1 in 0.000432014
+Dist 1 cnt 1 tot 2 scnt 12 stot 13 in 0.00520301
+Dist 2 cnt 6 tot 8 scnt 90 stot 103 in 0.00428009
+Dist 3 cnt 28 tot 36 scnt 572 stot 675 in 0.00411487
+Dist 4 cnt 153 tot 189 scnt 3405 stot 4080 in 0.00408316
+Dist 5 cnt 839 tot 1028 scnt 19704 stot 23784 in 0.004071
+Dist 6 cnt 4728 tot 5756 scnt 112172 stot 135956 in 0.00514102
+Dist 7 cnt 26391 tot 32147 scnt 631128 stot 767084 in 0.0101368
+Dist 8 cnt 146820 tot 178967 scnt 3517264 stot 4284348 in 0.0249271
+Dist 9 cnt 810768 tot 989735 scnt 19446520 stot 23730868 in 0.0892029
+Dist 10 cnt 4453212 tot 5442947 scnt 106845240 stot 130576108 in 0.442802
+Dist 11 cnt 24338205 tot 29781152 scnt 584056780 stot 714632888 in 2.58655
+Dist 12 cnt 132446119 tot 162227271 scnt 3178549176 stot 3893182064 in 15.7553
+Dist 13 cnt 717885814 tot 880113085 scnt 17228953120 stot 21122135184 in 86.2638
+Dist 14 cnt 3876562927 tot 4756676012 scnt 93036718208 stot 114158853392 in 533.154
+Dist 15 cnt 20856811375 tot 25613487387 scnt 500561912280 stot 614720765672 in 2927.76
+Created 40802625696 elements in 673.316
+to 30051135367 in 2121.96
+Created 40802625691 elements in 172.528
+to 37256307455 in 1901.97
+Created 40802625695 elements in 56.8627
+to 39544156729 in 1787.28
+! out of memory
