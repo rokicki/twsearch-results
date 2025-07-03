@@ -1,0 +1,27 @@
+# This is twsearch  (C) 2022 Tomas Rokicki.
+# build/bin/twsearch -t 40 -M 1500000 -g -F samples/symm/helicopter.tws
+Requiring 105 bits 16 bytes per entry; 20 from identity.
+Rotation group size is 24
+State size is about 2.86291 x 10^23 log2 77.9218
+Found 108 canonical move states.
+Calculated canonical states in 0.00181508
+Using sorting bfs symm and arrays.
+Dist 0 cnt 1 tot 1 scnt 1 stot 1 in 0.000776052
+Dist 1 cnt 1 tot 2 scnt 12 stot 13 in 0.00520205
+Dist 2 cnt 6 tot 8 scnt 90 stot 103 in 0.00498486
+Dist 3 cnt 28 tot 36 scnt 572 stot 675 in 0.00515294
+Dist 4 cnt 153 tot 189 scnt 3405 stot 4080 in 0.00484705
+Dist 5 cnt 839 tot 1028 scnt 19704 stot 23784 in 0.00376105
+Dist 6 cnt 4728 tot 5756 scnt 112172 stot 135956 in 0.0045979
+Dist 7 cnt 26391 tot 32147 scnt 631128 stot 767084 in 0.00979614
+Dist 8 cnt 146812 tot 178959 scnt 3516964 stot 4284048 in 0.0214748
+Dist 9 cnt 810485 tot 989444 scnt 19439500 stot 23723548 in 0.0789731
+Dist 10 cnt 4449211 tot 5438655 scnt 106748094 stot 130471642 in 0.385646
+Dist 11 cnt 24294822 tot 29733477 scnt 583013284 stot 713484926 in 2.14205
+Dist 12 cnt 132032545 tot 161766022 scnt 3168613664 stot 3882098590 in 13.1766
+Dist 13 cnt 714187888 tot 875953910 scnt 17140182976 stot 21022281566 in 69.5857
+Dist 14 cnt 3844660624 tot 4720614534 scnt 92270989326 stot 113293270892 in 408.409
+Dist 15 cnt 20587485588 tot 25308100122 scnt 494097920632 stot 607391191524 in 2417.5
+Created 73871853780 elements in 910.401
+to 48811947856 in 3010.7
+Created 73871853784 elements in 306.426
