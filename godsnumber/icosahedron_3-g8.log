@@ -1,0 +1,16 @@
+# This is twsearch  (C) 2022 Tomas Rokicki.
+# build/bin/twsearch -t 40 -M 1500000 -g -F samples/symm/icosahedron_3.tws
+Requiring 1771 bits 224 bytes per entry; 268 from identity.
+Rotation group size is 60
+State size is about 1.38963 x 10^398 log2 1322.6
+Found 43 canonical move states.
+Calculated canonical states in 0.0178301
+Using sorting bfs symm and arrays.
+Dist 0 cnt 1 tot 1 scnt 1 stot 1 in 0.000876904
+Dist 1 cnt 5 tot 6 scnt 78 stot 79 in 0.00484514
+Dist 2 cnt 105 tot 111 scnt 5751 stot 5830 in 0.00434399
+Dist 3 cnt 7021 tot 7132 scnt 420570 stot 426400 in 0.00663185
+Dist 4 cnt 509291 tot 516423 scnt 30555504 stot 30981904 in 0.348159
+Dist 5 cnt 36752434 tot 37268857 scnt 2205131992 stot 2236113896 in 33.4917
+Dist 6 cnt 2633609398 tot 2670878255 scnt 158016521724 stot 160252635620 in 3268
+Created 4351352382 elements in 615.614
