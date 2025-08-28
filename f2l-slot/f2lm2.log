@@ -1,0 +1,52 @@
+# This is twsearch  (C) 2022 Tomas Rokicki.
+# build/bin/twsearch --nocenters -g -M 1400000 f2lm2.tws
+Requiring 88 bits 12 bytes per entry; 16 from identity.
+Rotation group size is 1
+State size is 4635202682880 log2 42.0758
+Found 7 canonical move states.
+Calculated canonical states in 0.000432014
+Using twobit arrays and separate setdefs
+Freeing earlier work in 5.29289e-05
+Calculating move table for setdef EDGES lp 2
+At dist 0 see 1
+At dist 1 see 15
+At dist 2 see 191
+At dist 3 see 2455
+At dist 4 see 30519
+At dist 5 see 356462
+At dist 6 see 3766700
+At dist 7 see 32719467
+At dist 8 see 186297009
+At dist 9 see 274719633
+At dist 10 see 13042507
+At dist 11 see 81
+Saw 510935040 required 43542766768 bytes in 827.754
+Move table built in 3203.05
+Freeing earlier work in 0.167999
+Calculating move table for setdef CORNERS lp 1
+At dist 0 see 1
+At dist 1 see 15
+At dist 2 see 177
+At dist 3 see 1397
+At dist 4 see 4981
+At dist 5 see 2497
+At dist 6 see 4
+Saw 9072 required 384916 bytes in 0.017792
+Move table built in 0.0123541
+Freeing earlier work in 1.28746e-05
+Dist 0 1 1 in 3.71933e-05
+Dist 1 15 16 in 148.519
+Dist 2 191 207 in 147.058
+Dist 3 2506 2713 in 147.028
+Dist 4 32799 35512 in 147.089
+Dist 5 425291 460803 in 147.561
+Dist 6 5478059 5938862 in 152.936
+Dist 7 69932162 75871024 in 199.68
+Dist 8 879166749 955037773 in 478.61
+Dist 9 10713267796 11668305569 in 1312.66
+Dist 10 120169270476 131837576045 in 6653.67
+Dist 11 1012396495638 1144234071683 in 31185.8
+Dist 12 2961737324018 4105971395701 in 83960.9
+Dist 13 529223381386 4635194777087 in 15401.5
+Dist 14 7905793 4635202682880 in 331.579
+Twsearch finished.
